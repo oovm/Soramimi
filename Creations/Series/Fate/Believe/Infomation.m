@@ -1,0 +1,42 @@
+{
+	<|
+		"Title"->"Believe",
+		"Description"->"",
+		"Authors"->{"GalAster"},
+		"Created"->DateObject[{2015,12,12}],
+		"Music"->"Believe.mp3",
+		"MusicBy"->Missing,
+		"Subtitle"-><|
+			"Main"->"Believe.ass",
+			"Timeline"->Missing,
+			"Fantasy"->Missing,
+			"Description"->"",
+			"Authors"->{"GalAster"}
+		|>,
+		"Video"-><|
+			"URL"->"",
+			"Description"->"",
+			"Authors"-><|""|>
+		|>
+	|>,
+	<|
+		"Title"->"Believe 念白版",
+		"Description"->"",
+		"Authors"->{"GalAster"},
+		"Created"->DateObject[{2015,12,13}],
+		"Music"->"Believe.mp3",
+		"MusicBy"->Missing,
+		"Subtitle"-><|
+			"Main"->"[念白版]Believe.ass",
+			"Timeline"->"[念白版]Believe.k.ass",
+			"Fantasy"->Missing,
+			"Description"->"",
+			"Authors"->{"GalAster"}
+		|>,
+		"Video"-><|
+			"URL"->"",
+			"Description"->"",
+			"Authors"-><|""|>
+		|>
+	|>
+};

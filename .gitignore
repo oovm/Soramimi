@@ -2,12 +2,32 @@
 .idea/
 *.jar
 
-# 富文本
+# 音乐
 *.MP3
 *.MP4
 *.MP5
+
+# 视频
 *.flv
+*.mkv
+*.wav
+
+# 图片
+*.jpg
+*.jpeg
+*.png
+
+
+# 其他歌词格式
+*.lrc
+*.srt
+*.acplay
+*.bbplay
+*.xml
 *.tcax.ass
 
-# 歌词文件
-*.lrc
+# 会声会影工程
+*.vsp
+
+# 字体文件
+*.ttc

@@ -1,0 +1,22 @@
+{
+	<|
+		"Title"->"ギリギリ 中毒版",
+		"Description"->"",
+		"Authors"->{"佚名"},
+		"Created"->DateObject[{2016,6,19}],
+		"Music"->"ギリギリ",
+		"MusicBy"->Missing,
+		"Subtitle"-><|
+			"Main"->"ギリギリ愛.ass",
+			"Timeline"->"ギリギリ愛.k.ass",
+			"Fantasy"->"ギリギリ愛.tcax.ass",
+			"Description"->"",
+			"Authors"-><|"GalAster"|>
+		|>,
+		"Video"-><|
+			"URL"->"",
+			"Description"->"",
+			"Authors"-><|""|>
+		|>
+	|>
+};
