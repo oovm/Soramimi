@@ -6,6 +6,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Styx Helix.flv
 Video File: Styx Helix.flv
 Video AR Mode: 4
@@ -15,31 +16,31 @@ Video Position: 16
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.64,0:00:02.78,Default,,0,0,0,, 
-Dialogue: 0,0:00:02.78,0:00:04.98,Default,,0,0,0,,
-Dialogue: 0,0:00:08.48,0:00:10.56,Default,,0,0,0,,
-Dialogue: 0,0:00:10.56,0:00:12.86,Default,,0,0,0,,
+Dialogue: 0,0:00:00.64,0:00:02.78,Default,,0,0,0,,我不说那人
+Dialogue: 0,0:00:02.78,0:00:04.98,Default,,0,0,0,,relly for 由他去
+Dialogue: 0,0:00:08.48,0:00:10.56,Default,,0,0,0,,孤单没了后来
+Dialogue: 0,0:00:10.56,0:00:12.86,Default,,0,0,0,,泪水仍是悲哀
 Dialogue: 0,0:00:18.86,0:00:22.32,Default,,0,0,0,,
-Dialogue: 0,0:00:22.32,0:00:26.18,Default,,0,0,0,,
-Dialogue: 0,0:00:26.18,0:00:30.12,Default,,0,0,0,,
-Dialogue: 0,0:00:30.12,0:00:35.04,Default,,0,0,0,,
+Dialogue: 0,0:00:22.32,0:00:26.18,Default,,0,0,0,,空望 泪水哭 yiteku ?????
+Dialogue: 0,0:00:26.18,0:00:30.12,Default,,0,0,0,,每当夜晚 我梦 made
+Dialogue: 0,0:00:30.12,0:00:35.04,Default,,0,0,0,,eeee 空无??????
 Dialogue: 0,0:00:36.92,0:00:42.28,Default,,0,0,0,,
-Dialogue: 0,0:00:42.28,0:00:43.54,Default,,0,0,0,,
-Dialogue: 0,0:00:43.54,0:00:45.64,Default,,0,0,0,,
-Dialogue: 0,0:00:45.64,0:00:47.86,Default,,0,0,0,,
+Dialogue: 0,0:00:42.28,0:00:43.54,Default,,0,0,0,,(爱我消失在夜晚)/(爱我要死掉)
+Dialogue: 0,0:00:43.54,0:00:45.64,Default,,0,0,0,,我必须在明天
+Dialogue: 0,0:00:45.64,0:00:47.86,Default,,0,0,0,,爱情 for your torch
 Dialogue: 0,0:00:47.86,0:00:49.72,Default,,0,0,0,,
-Dialogue: 0,0:00:49.72,0:00:52.26,Default,,0,0,0,,
-Dialogue: 0,0:00:52.26,0:00:54.92,Default,,0,0,0,,
-Dialogue: 0,0:00:54.92,0:00:59.10,Default,,0,0,0,,
-Dialogue: 0,0:00:59.10,0:01:03.22,Default,,0,0,0,,
-Dialogue: 0,0:01:03.22,0:01:08.10,Default,,0,0,0,,
-Dialogue: 0,0:01:08.10,0:01:13.32,Default,,0,0,0,,
-Dialogue: 0,0:01:13.32,0:01:16.98,Default,,0,0,0,,
-Dialogue: 0,0:01:18.86,0:01:22.50,Default,,0,0,0,,
-Dialogue: 0,0:01:22.50,0:01:23.50,Default,,0,0,0,,
-Dialogue: 0,0:01:25.18,0:01:28.32,Default,,0,0,0,,
-Dialogue: 0,0:01:28.32,0:01:29.52,Default,,0,0,0,,
+Dialogue: 0,0:00:49.72,0:00:52.26,Default,,0,0,0,,那苦涩的爱还溢/那股伤痛又临
+Dialogue: 0,0:00:52.26,0:00:54.92,Default,,0,0,0,,我的希望 我?????
+Dialogue: 0,0:00:54.92,0:00:59.10,Default,,0,0,0,,繁星漫天 restart
+Dialogue: 0,0:00:59.10,0:01:03.22,Default,,0,0,0,,难忘梦里 XX
+Dialogue: 0,0:01:03.22,0:01:08.10,Default,,0,0,0,,却大哭 请别嚎啕大哭
+Dialogue: 0,0:01:08.10,0:01:13.32,Default,,0,0,0,,XXX 我忘了那时有你
+Dialogue: 0,0:01:13.32,0:01:16.98,Default,,0,0,0,,??????????????????????????
+Dialogue: 0,0:01:18.86,0:01:22.50,Default,,0,0,0,,??????????????????????????????
+Dialogue: 0,0:01:22.50,0:01:23.50,Default,,0,0,0,,遗忘她/遗落她
+Dialogue: 0,0:01:25.18,0:01:28.32,Default,,0,0,0,,??????????????????????????
+Dialogue: 0,0:01:28.32,0:01:29.52,Default,,0,0,0,,回忆她/kimita
