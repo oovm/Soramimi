@@ -12,8 +12,7 @@ Video File: Styx Helix.flv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 4
-Video Position: 453
+Video Position: 16
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,26 +22,26 @@ Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.64,0:00:02.78,Default,,0,0,0,,我分手 待明天
 Dialogue: 0,0:00:02.78,0:00:04.98,Default,,0,0,0,,为你护佑 由她去
-Dialogue: 0,0:00:08.48,0:00:10.56,Default,,0,0,0,,难忘你让我昂然/孤单没了后来/弄懂你的昂然/
-Dialogue: 0,0:00:10.56,0:00:12.86,Default,,0,0,0,,留下的是淡然/来生满是悲哀/泪水仍是悲哀/不再认识他了/
-Dialogue: 0,0:00:18.86,0:00:22.32,Default,,0,0,0,,空荡的街 客栈已经落下 /苦难都可以 去除 inoci/苦难都给遗弃(埋葬) 易容醒恐怕令她哭/孤单的感情中 一念间垮掉
-Dialogue: 0,0:00:22.32,0:00:26.18,Default,,0,0,0,,空望 泪水哭 情又枯  懂事了 /可懂 泪水苦 记忆苦 /冻死了/, 懂事了/ 来的快, 去也快, 都消失了
-Dialogue: 0,0:00:26.18,0:00:31.80,Default,,0,0,0,,每当夜晚 我梦 made 的泪/没法爱她,我默默盲等/每当回到我们偶遇的那天/每遍爱的噩梦
-Dialogue: 0,0:00:32.36,0:00:35.04,Default,,0,0,0,,空无了你要去哪过/泪 可能也要更难过/恐惧难以压抑/你也在哪哭
-Dialogue: 0,0:00:36.92,0:00:42.28,Default,,0,0,0,,凄咽的心没路活 /今夜的星模糊了/今夜的星芒陨落
-Dialogue: 0,0:00:42.28,0:00:43.54,Default,,0,0,0,,(爱我消失在夜晚)/(爱我要死掉)/(爱 威胁我死掉)
-Dialogue: 0,0:00:43.54,0:00:45.64,Default,,0,0,0,,我必须在明天/不服输眼泪擦/我必须在枉死一遍/ 我复生的每次/我不说那人迷态/
-Dialogue: 0,0:00:45.64,0:00:47.86,Default,,0,0,0,,为你for爱 由她去 /爱情 for your torch/眼泪烦忧擦去
-Dialogue: 0,0:00:47.86,0:00:49.72,Default,,0,0,0,,已忘掉 那一幕/ 你的谎, 难以抹/为爱放 由他去/忆的痛 那希望
-Dialogue: 0,0:00:49.72,0:00:52.26,Default,,0,0,0,,那苦涩伤痛又临 /那苦涩的爱满溢/那股伤痛又临/那哭瞎的亡灵/  那苦涩的爱还溢
-Dialogue: 0,0:00:52.26,0:00:54.92,Default,,0,0,0,,我的希望 我思念的/ 我无声的埋没/我的心魔 我撕裂的 /我的希望. 
-Dialogue: 0,0:00:54.92,0:00:59.10,Default,,0,0,0,,繁星漫天 restart/还记得吗 /还浸灭的/好几遍的 restart
-Dialogue: 0,0:00:59.10,0:01:01.30,Default,,0,0,0,,难忘梦里的 后来 /难忘你让我昂然/黯然/读档没了后来/
-Dialogue: 0,0:01:01.30,0:01:03.22,Default,,0,0,0,,流失了 失淡然/来生仍是待爱/挚爱
-Dialogue: 0,0:01:03.22,0:01:07.92,Default,,0,0,0,,请别嚎啕大哭 苦难过了就明朗/彼此望 古道枯 可难看那心意啊/祈命我 却大哭 恐落他那凄命/qimoo/背弃我, 却大哭/请别嚎啕大哭 空看繁星明亮
-Dialogue: 0,0:01:08.24,0:01:13.32,Default,,0,0,0,,于此刻 我忘了那时有你/ 一直看 我愿你满是忧郁/异次元 /意志挽 我挽灵魂似游离/
-Dialogue: 0,0:01:13.32,0:01:16.98,Default,,0,0,0,,不能安息以后/ XX还是永恒/无能而(憾)死啊/ 无能而死啊
-Dialogue: 0,0:01:18.86,0:01:22.50,Default,,0,0,0,,而我又在 为你挽留着/安慰她 为你抚揉这你的痛
-Dialogue: 0,0:01:22.50,0:01:23.50,Default,,0,0,0,,遗忘她/遗落她
-Dialogue: 0,0:01:25.18,0:01:28.32,Default,,0,0,0,,我死了 回忆中凝结 /为了啥/ 一道光 归宿(会否)留待
-Dialogue: 0,0:01:28.32,0:01:29.52,Default,,0,0,0,,并不懂/ 回忆她/kimita/被冰冻/ 
+Dialogue: 0,0:00:08.48,0:00:10.56,Default,,0,0,0,,难忘你让我昂然
+Dialogue: 0,0:00:10.56,0:00:12.86,Default,,0,0,0,,留下的是淡然
+Dialogue: 0,0:00:18.86,0:00:22.32,Default,,0,0,0,,空荡的街 客栈已经落下
+Dialogue: 0,0:00:22.32,0:00:26.18,Default,,0,0,0,,空望 泪水哭 情又枯  懂事了
+Dialogue: 0,0:00:26.18,0:00:31.80,Default,,0,0,0,,每当夜晚 我梦 made 的泪
+Dialogue: 0,0:00:32.36,0:00:35.04,Default,,0,0,0,,空无了你要去哪过
+Dialogue: 0,0:00:36.92,0:00:42.28,Default,,0,0,0,,凄咽的心没路活
+Dialogue: 0,0:00:42.28,0:00:43.54,Default,,0,0,0,,(爱我消失在夜晚)
+Dialogue: 0,0:00:43.54,0:00:45.64,Default,,0,0,0,,我必须在明天
+Dialogue: 0,0:00:45.64,0:00:47.86,Default,,0,0,0,,为你for爱 由她去
+Dialogue: 0,0:00:47.86,0:00:49.72,Default,,0,0,0,,已忘掉 那一幕
+Dialogue: 0,0:00:49.72,0:00:52.26,Default,,0,0,0,,那苦涩伤痛又临
+Dialogue: 0,0:00:52.26,0:00:54.92,Default,,0,0,0,,我的希望 我思念的
+Dialogue: 0,0:00:54.92,0:00:59.10,Default,,0,0,0,,繁星漫天 restart
+Dialogue: 0,0:00:59.10,0:01:01.30,Default,,0,0,0,,难忘梦里的 后来
+Dialogue: 0,0:01:01.30,0:01:03.22,Default,,0,0,0,,流失了 失淡然
+Dialogue: 0,0:01:03.22,0:01:07.92,Default,,0,0,0,,请别嚎啕大哭 苦难过了就明朗
+Dialogue: 0,0:01:08.24,0:01:13.32,Default,,0,0,0,,于此刻 我忘了那时与你
+Dialogue: 0,0:01:13.32,0:01:16.98,Default,,0,0,0,,不能安息以后
+Dialogue: 0,0:01:18.86,0:01:22.50,Default,,0,0,0,,而我又在 为你挽留着
+Dialogue: 0,0:01:22.50,0:01:23.50,Default,,0,0,0,,遗忘她
+Dialogue: 0,0:01:25.18,0:01:28.32,Default,,0,0,0,,为了啥 回忆中凝结
+Dialogue: 0,0:01:28.32,0:01:29.52,Default,,0,0,0,,并不懂
