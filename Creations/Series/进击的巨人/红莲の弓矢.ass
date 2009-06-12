@@ -11,9 +11,8 @@ Video File: 红莲の弓矢.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 14
-Active Line: 30
-Video Position: 2569
+Active Line: 5
+Video Position: 614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,31 +21,31 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.60,0:00:03.22,Default,,0,0,0,,
-Dialogue: 0,0:00:03.22,0:00:08.50,Default,,0,0,0,,
+Dialogue: 0,0:00:03.22,0:00:08.50,Default,,0,0,0,,捍卫故乡 拼上信仰
 Dialogue: 0,0:00:08.50,0:00:14.06,Default,,0,0,0,,
-Dialogue: 0,0:00:15.14,0:00:17.78,Default,,0,0,0,,
-Dialogue: 0,0:00:17.78,0:00:20.44,Default,,0,0,0,,
-Dialogue: 0,0:00:20.44,0:00:23.10,Default,,0,0,0,,
-Dialogue: 0,0:00:23.10,0:00:25.56,Default,,0,0,0,,
-Dialogue: 0,0:00:25.56,0:00:28.34,Default,,0,0,0,,
-Dialogue: 0,0:00:28.34,0:00:31.12,Default,,0,0,0,,
-Dialogue: 0,0:00:31.12,0:00:33.76,Default,,0,0,0,,
-Dialogue: 0,0:00:33.76,0:00:36.36,Default,,0,0,0,,
-Dialogue: 0,0:00:36.36,0:00:38.82,Default,,0,0,0,,
-Dialogue: 0,0:00:38.82,0:00:39.48,Default,,0,0,0,,
-Dialogue: 0,0:00:39.48,0:00:40.14,Default,,0,0,0,,
-Dialogue: 0,0:00:40.14,0:00:40.72,Default,,0,0,0,,
-Dialogue: 0,0:00:40.72,0:00:41.62,Default,,0,0,0,,
-Dialogue: 0,0:00:41.62,0:00:44.24,Default,,0,0,0,,家畜安定 虚伪的繁荣
-Dialogue: 0,0:00:44.24,0:00:46.78,Default,,0,0,0,,
-Dialogue: 0,0:00:46.78,0:00:49.70,Default,,0,0,0,,
-Dialogue: 0,0:00:49.70,0:00:52.48,Default,,0,0,0,,
-Dialogue: 0,0:00:52.48,0:00:54.98,Default,,0,0,0,,
-Dialogue: 0,0:00:54.98,0:00:57.72,Default,,0,0,0,,
-Dialogue: 0,0:00:57.72,0:01:00.34,Default,,0,0,0,,
-Dialogue: 0,0:01:00.34,0:01:03.08,Default,,0,0,0,,
-Dialogue: 0,0:01:03.08,0:01:05.58,Default,,0,0,0,,
-Dialogue: 0,0:01:05.58,0:01:10.22,Default,,0,0,0,,
+Dialogue: 0,0:00:15.14,0:00:17.78,Default,,0,0,0,,xx理想 xx  踏花难落/
+Dialogue: 0,0:00:17.78,0:00:20.44,Default,,0,0,0,,那么/那一抹/ xx 希望之力/信仰之力
+Dialogue: 0,0:00:20.44,0:00:23.10,Default,,0,0,0,,激励傲气踏破迷惘/篱网
+Dialogue: 0,0:00:23.10,0:00:25.56,Default,,0,0,0,,堪破/看尽雾霾 iwa/ 迷路
+Dialogue: 0,0:00:25.56,0:00:28.34,Default,,0,0,0,,一味 oka/夜阑卧榻瞳孔望天
+Dialogue: 0,0:00:28.34,0:00:31.12,Default,,0,0,0,,那里目光火辣难抑
+Dialogue: 0,0:00:31.12,0:00:33.76,Default,,0,0,0,,夜半讴歌安如落花
+Dialogue: 0,0:00:33.76,0:00:36.36,Default,,0,0,0,,他的高傲看空过往
+Dialogue: 0,0:00:36.36,0:00:38.82,Default,,0,0,0,,饥渴亡灵宿命拖泪得
+Dialogue: 0,0:00:38.82,0:00:39.48,Default,,0,0,0,,这思路
+Dialogue: 0,0:00:39.48,0:00:40.14,Default,,0,0,0,,已陷落
+Dialogue: 0,0:00:40.14,0:00:40.72,Default,,0,0,0,,亡灵路
+Dialogue: 0,0:00:40.72,0:00:41.62,Default,,0,0,0,,更堪忧
+Dialogue: 0,0:00:41.62,0:00:44.24,Default,,0,0,0,,家畜多安宁 虚伪的繁荣
+Dialogue: 0,0:00:44.24,0:00:46.78,Default,,0,0,0,,死去的恶狼 渴望自由
+Dialogue: 0,0:00:46.78,0:00:49.70,Default,,0,0,0,,痛在我脸庞, 苦楚与迷惘/渴望
+Dialogue: 0,0:00:49.70,0:00:52.48,Default,,0,0,0,,放歌  空我惜殆
+Dialogue: 0,0:00:52.48,0:00:54.98,Default,,0,0,0,,痛记心中 从容地战斗
+Dialogue: 0,0:00:54.98,0:00:57.72,Default,,0,0,0,,一梦 咯后, 何不誉一歌
+Dialogue: 0,0:00:57.72,0:01:00.34,Default,,0,0,0,,烽火的细语, 生活大道理
+Dialogue: 0,0:01:00.34,0:01:03.08,Default,,0,0,0,,送来迷惘也寄来甘乐
+Dialogue: 0,0:01:03.08,0:01:05.58,Default,,0,0,0,,穿梭屋檐里, 希望未可知
+Dialogue: 0,0:01:05.58,0:01:10.22,Default,,0,0,0,,狼烟多悠扬
 Dialogue: 0,0:01:10.22,0:01:12.30,Default,,0,0,0,,
 Dialogue: 0,0:01:12.30,0:01:17.62,Default,,0,0,0,,
 Dialogue: 0,0:01:17.62,0:01:22.44,Default,,0,0,0,,
