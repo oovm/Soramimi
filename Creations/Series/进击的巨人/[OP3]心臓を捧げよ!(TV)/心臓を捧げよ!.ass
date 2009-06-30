@@ -11,9 +11,9 @@ Video File: 心臓を捧げよ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 8
-Active Line: 24
-Video Position: 2313
+Scroll Position: 12
+Active Line: 19
+Video Position: 1809
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,28 +21,28 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.54,0:00:09.28,Default,,0,0,0,,
-Dialogue: 0,0:00:09.28,0:00:12.22,Default,,0,0,0,,
-Dialogue: 0,0:00:12.22,0:00:15.42,Default,,0,0,0,,
-Dialogue: 0,0:00:15.42,0:00:18.25,Default,,0,0,0,,
-Dialogue: 0,0:00:18.25,0:00:21.28,Default,,0,0,0,,
-Dialogue: 0,0:00:21.28,0:00:24.30,Default,,0,0,0,,
-Dialogue: 0,0:00:24.30,0:00:27.24,Default,,0,0,0,,
-Dialogue: 0,0:00:27.24,0:00:30.40,Default,,0,0,0,,
-Dialogue: 0,0:00:30.40,0:00:33.42,Default,,0,0,0,,
-Dialogue: 0,0:00:33.42,0:00:36.38,Default,,0,0,0,,
-Dialogue: 0,0:00:36.38,0:00:39.39,Default,,0,0,0,,
-Dialogue: 0,0:00:39.39,0:00:42.44,Default,,0,0,0,,
-Dialogue: 0,0:00:42.44,0:00:43.79,Default,,0,0,0,,
-Dialogue: 0,0:00:43.79,0:00:45.64,Default,,0,0,0,,
-Dialogue: 0,0:00:45.64,0:00:48.16,Default,,0,0,0,,
-Dialogue: 0,0:00:48.16,0:00:51.23,Default,,0,0,0,,
-Dialogue: 0,0:00:51.23,0:00:54.48,Default,,0,0,0,,
-Dialogue: 0,0:00:54.48,0:00:57.40,Default,,0,0,0,,
-Dialogue: 0,0:00:57.40,0:01:00.28,Default,,0,0,0,,
-Dialogue: 0,0:01:00.28,0:01:03.36,Default,,0,0,0,,
+Dialogue: 0,0:00:06.54,0:00:09.28,Default,,0,0,0,,こぃじおの 几乎枯萎
+Dialogue: 0,0:00:09.28,0:00:12.22,Default,,0,0,0,,埋葬了心就等坍塌
+Dialogue: 0,0:00:12.22,0:00:15.42,Default,,0,0,0,,在那牢笼里安可能呼喊
+Dialogue: 0,0:00:15.42,0:00:18.25,Default,,0,0,0,,お统统处理/除去
+Dialogue: 0,0:00:18.25,0:00:21.28,Default,,0,0,0,,逃避那忐忑惶恐xxx的我
+Dialogue: 0,0:00:21.28,0:00:24.30,Default,,0,0,0,,????????????????????
+Dialogue: 0,0:00:24.30,0:00:27.24,Default,,0,0,0,,忘了过往的伤 ????
+Dialogue: 0,0:00:27.24,0:00:30.40,Default,,0,0,0,,何苦呢 拥吻你
+Dialogue: 0,0:00:30.40,0:00:33.42,Default,,0,0,0,,信念逝去我们也要 もの
+Dialogue: 0,0:00:33.42,0:00:36.38,Default,,0,0,0,,????? 悲剧 带来的爱
+Dialogue: 0,0:00:36.38,0:00:39.39,Default,,0,0,0,,暗夜心中不断挂念与祈祷明天
+Dialogue: 0,0:00:39.39,0:00:42.44,Default,,0,0,0,,我们的心何必再等待
+Dialogue: 0,0:00:42.44,0:00:43.79,Default,,0,0,0,,那里可是地狱啊
+Dialogue: 0,0:00:43.79,0:00:45.64,Default,,0,0,0,,ぁきも我心中焰
+Dialogue: 0,0:00:45.64,0:00:48.16,Default,,0,0,0,,面对死神也不忘心中誓言
+Dialogue: 0,0:00:48.16,0:00:51.23,Default,,0,0,0,,けぃて　???????????
+Dialogue: 0,0:00:51.23,0:00:54.48,Default,,0,0,0,,越杀越勇 越杀越勇
+Dialogue: 0,0:00:54.48,0:00:57.40,Default,,0,0,0,,心脏 越杀越勇
+Dialogue: 0,0:00:57.40,0:01:00.28,Default,,0,0,0,,是非的路 不避死亡
+Dialogue: 0,0:01:00.28,0:01:03.36,Default,,0,0,0,,   ?????? 打败你
 Dialogue: 0,0:01:03.36,0:01:06.40,Default,,0,0,0,,
-Dialogue: 0,0:01:06.40,0:01:09.21,Default,,0,0,0,,
-Dialogue: 0,0:01:09.21,0:01:12.38,Default,,0,0,0,,
+Dialogue: 0,0:01:06.40,0:01:09.21,Default,,0,0,0,,现在我
+Dialogue: 0,0:01:09.21,0:01:12.38,Default,,0,0,0,,生死由命
 Dialogue: 0,0:01:12.38,0:01:17.08,Default,,0,0,0,,
 Dialogue: 0,0:01:17.08,0:01:27.05,Default,,0,0,0,,
