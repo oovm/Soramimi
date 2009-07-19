@@ -12,8 +12,7 @@ Video File: 心臓を捧げよ!.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 6
-Video Position: 729
+Video Position: 197
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,11 +22,11 @@ Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.54,0:00:09.28,Default,,0,0,0,,国沦城落 几多哭喊
 Dialogue: 0,0:00:09.28,0:00:12.22,Default,,0,0,0,,埋葬了的心 几多感叹
-Dialogue: 0,0:00:12.22,0:00:15.42,Default,,0,0,0,,在那禁牢里sai 安可能呼喊
+Dialogue: 0,0:00:12.22,0:00:15.42,Default,,0,0,0,,在牢禁 路已塞 安可能呼喊
 Dialogue: 0,0:00:15.42,0:00:18.25,Default,,0,0,0,,那是搏斗的决意
-Dialogue: 0,0:00:18.25,0:00:21.28,Default,,0,0,0,,痛毙lawo忐忑/淡淡/屠魔的晚
-Dialogue: 0,0:00:21.28,0:00:24.30,Default,,0,0,0,,再将血倒入伤疤o/杀够/里
-Dialogue: 0,0:00:24.30,0:00:27.24,Default,,0,0,0,,忘了过往的伤 用keno捍卫
+Dialogue: 0,0:00:18.25,0:00:21.28,Default,,0,0,0,,痛毙难忘忐忑屠魔的晚
+Dialogue: 0,0:00:21.28,0:00:24.30,Default,,0,0,0,,再将血倒入伤疤坳里
+Dialogue: 0,0:00:24.30,0:00:27.24,Default,,0,0,0,,忘了过往的伤 用骷髅捍卫
 Dialogue: 0,0:00:27.24,0:00:30.40,Default,,0,0,0,,让这荣光耀我翼
 Dialogue: 0,0:00:30.40,0:00:33.42,Default,,0,0,0,,信念逝去 把我拉入噩梦中
 Dialogue: 0,0:00:33.42,0:00:36.38,Default,,0,0,0,,眼中缭乱之墟 哭诉悲剧带来的哀
@@ -39,7 +38,7 @@ Dialogue: 0,0:00:45.64,0:00:48.16,Default,,0,0,0,,面对死神也不忘心的誓
 Dialogue: 0,0:00:48.16,0:00:51.23,Default,,0,0,0,,以心脏为誓 只等告慰战友
 Dialogue: 0,0:00:51.23,0:00:54.48,Default,,0,0,0,,撕碎巨人 越杀越勇
 Dialogue: 0,0:00:54.48,0:00:57.40,Default,,0,0,0,,心脏哟 越杀越勇
-Dialogue: 0,0:00:57.40,0:01:00.28,Default,,0,0,0,,是非的路 不避死亡
+Dialogue: 0,0:00:57.40,0:01:00.28,Default,,0,0,0,,谁悲的路 不避死亡
 Dialogue: 0,0:01:00.28,0:01:03.36,Default,,0,0,0,,迎面 靠立体机动 打败你
 Dialogue: 0,0:01:03.36,0:01:06.40,Default,,0,0,0,,碎石陨落 厮杀与野
 Dialogue: 0,0:01:06.40,0:01:09.21,Default,,0,0,0,,现在我 厮杀愈勇
