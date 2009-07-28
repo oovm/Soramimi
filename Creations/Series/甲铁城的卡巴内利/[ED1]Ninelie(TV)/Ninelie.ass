@@ -12,10 +12,7 @@ Video File: Ninelie.flv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-<<<<<<< HEAD:Creations/Series/甲铁城/ED/Ninelie.ass
-=======
 Active Line: 1
->>>>>>> e8de270... 空耳::Ninelie 三稿:Creations/Series/甲铁城/ED1 TV/Ninelie.ass
 Video Position: 158
 
 [V4+ Styles]
@@ -24,23 +21,6 @@ Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-<<<<<<< HEAD:Creations/Series/甲铁城/ED/Ninelie.ass
-Dialogue: 0,0:00:06.58,0:00:11.92,Default,,0,0,0,,起迷雾 从来不曾盖过我心
-Dialogue: 0,0:00:11.92,0:00:14.58,Default,,0,0,0,,那心吊坠/ 但许多次 
-Dialogue: 0,0:00:14.58,0:00:17.02,Default,,0,0,0,,我的梦它在凋落/ 呃 无奈 一直怀疑
-Dialogue: 0,0:00:17.78,0:00:20.14,Default,,0,0,0,,噩梦么 /恶魔么
-Dialogue: 0,0:00:20.30,0:00:23.10,Default,,0,0,0,,
-Dialogue: 0,0:00:23.10,0:00:25.42,Default,,0,0,0,,大雨落入墙壁
-Dialogue: 0,0:00:25.90,0:00:28.66,Default,,0,0,0,,看他孤单的轮廓/冲动已淡漠了的情
-Dialogue: 0,0:00:28.84,0:00:34.12,Default,,0,0,0,,那一天我望着路/那一天我化身为 / 淡漠望着路
-Dialogue: 0,0:00:34.12,0:00:39.20,Default,,0,0,0,,孤单夜里 刺骨的痛/我答应你 /孤单还爱你 
-Dialogue: 0,0:00:39.48,0:00:44.68,Default,,0,0,0,,kulikao  挖开你 /我看你
-Dialogue: 0,0:00:44.68,0:00:48.86,Default,,0,0,0,,哭着离他乡 / 他(开)  sang
-Dialogue: 0,0:00:49.56,0:00:52.64,Default,,0,0,0,,苦等(kie)抗争凯旋
-Dialogue: 0,0:00:52.64,0:00:55.72,Default,,0,0,0,,逃进(躲避)那铁甲躲一生
-Dialogue: 0,0:00:55.72,0:00:58.76,Default,,0,0,0,,拿起刀 拯救你/在这里 指着你
-Dialogue: 0,0:00:58.76,0:01:01.42,Default,,0,0,0,,我们来含笑遗的梦/噩梦嘲笑你的梦/
-=======
 Dialogue: 0,0:00:01.48,0:00:06.58,Default,,0,0,0,,
 Dialogue: 0,0:00:06.58,0:00:11.92,Default,,0,0,0,,起迷雾 从来不曾盖过我心
 Dialogue: 0,0:00:11.92,0:00:14.58,Default,,0,0,0,,把心偷走
@@ -57,9 +37,8 @@ Dialogue: 0,0:00:49.56,0:00:52.64,Default,,0,0,0,,苦等看着『铠骏』
 Dialogue: 0,0:00:52.64,0:00:55.72,Default,,0,0,0,,躲避那铁甲的一生/逃避那????的一生
 Dialogue: 0,0:00:55.72,0:00:58.76,Default,,0,0,0,,拿起刀 拯救你
 Dialogue: 0,0:00:58.76,0:01:01.42,Default,,0,0,0,,????????? 我们来含笑遗的梦/噩梦嘲笑你的梦/ 甩开悲痛难安的梦
->>>>>>> e8de270... 空耳::Ninelie 三稿:Creations/Series/甲铁城/ED1 TV/Ninelie.ass
 Dialogue: 0,0:01:01.42,0:01:06.96,Default,,0,0,0,,破空的弹雨 刻记往事的永恒
-Dialogue: 0,0:01:06.96,0:01:13.00,Default,,0,0,0,,大家的伤忧往事 已埋葬雾中 
+Dialogue: 0,0:01:06.96,0:01:13.00,Default,,0,0,0,,大家的伤忧往事 已埋葬雾中
 Dialogue: 0,0:01:17.12,0:01:22.02,Default,,0,0,0,,(这铁城终会燃烧)
 Dialogue: 0,0:01:22.70,0:01:27.78,Default,,0,0,0,,(这灵魂怎会彷徨)
 Dialogue: 0,0:01:27.78,0:01:30.22,Default,,0,0,0,,
