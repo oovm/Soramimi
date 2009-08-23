@@ -6,6 +6,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Lemon(コバソロ&春茶).mp4
 Video File: Lemon(コバソロ&春茶).mp4
 Video AR Mode: 4
@@ -17,32 +18,27 @@ Video Position: 5466
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.44,0:00:02.81,Default,,0,0,0,,又梦那ぁば
-Dialogue: 0,0:00:02.81,0:00:04.19,Default,,0,0,0,,冬夜ほど
-Dialogue: 0,0:00:04.19,0:00:06.97,Default,,0,0,0,,又感到 担心/胆小 哦
-Dialogue: 0,0:00:06.97,0:00:10.19,Default,,0,0,0,,
-Dialogue: 0,0:00:10.19,0:00:12.36,Default,,0,0,0,,我めに迷路
-Dialogue: 0,0:00:12.52,0:00:15.64,Default,,0,0,0,,往事来淡漠の懵懂里/お道理
-Dialogue: 0,0:00:15.64,0:00:17.50,Default,,0,0,0,,该爱路有你/由你
-Dialogue: 0,0:00:18.17,0:00:20.48,Default,,0,0,0,, ??? だえぉ 力量/理念
-Dialogue: 0,0:00:20.48,0:00:23.74,Default,,0,0,0,,
-Dialogue: 0,0:00:25.96,0:00:31.53,Default,,0,0,0,,
-Dialogue: 0,0:00:31.74,0:00:36.97,Default,,0,0,0,,塞一口, 迷夜落单, ????, 大哭了哒
-Dialogue: 0,0:00:37.32,0:00:42.81,Default,,0,0,0,,
-Dialogue: 0,0:00:42.81,0:00:46.04,Default,,0,0,0,,而なだ 大雨呢 不安 你那
-Dialogue: 0,0:00:46.04,0:00:48.11,Default,,0,0,0,,孤单 意满满/慢慢
-Dialogue: 0,0:00:48.81,0:00:51.40,Default,,0,0,0,,???? 过了一宿
-Dialogue: 0,0:00:51.40,0:00:54.04,Default,,0,0,0,,一次次哭?这头到那头
-Dialogue: 0,0:00:54.04,0:00:59.08,Default,,0,0,0,,??????? 啊 感慨一路/移入
-Dialogue: 0,0:00:59.08,0:01:01.87,Default,,0,0,0,,
-Dialogue: 0,0:01:01.87,0:01:04.52,Default,,0,0,0,,
-Dialogue: 0,0:01:04.52,0:01:10.11,Default,,0,0,0,,所有失败感哦 ???????
-Dialogue: 0,0:01:10.11,0:01:15.55,Default,,0,0,0,,有了你的鼓励 ?????????????
-Dialogue: 0,0:01:15.55,0:01:21.04,Default,,0,0,0,,还没告诉你啊 ??????????????? 可我泪难抑
+Dialogue: 0,0:00:01.44,0:00:02.81,Default,,0,0,0,,又梦那ぁば /有没那了吧
+Dialogue: 0,0:00:02.81,0:00:04.19,Default,,0,0,0,,冬夜ほど/都累好多
+Dialogue: 0,0:00:04.19,0:00:06.97,Default,,0,0,0,,又感到 担心/胆小 哦/又看的得秀我
+Dialogue: 0,0:00:06.97,0:00:12.36,Default,,0,0,0,,???? 我有没你迷路
+Dialogue: 0,0:00:12.52,0:00:17.50,Default,,0,0,0,,往事来淡漠の懵懂里/お道理/我似累的吗？那么多，你已看爱没有你  该爱路有你/由你
+Dialogue: 0,0:00:18.17,0:00:23.74,Default,,0,0,0,, ??? だえぉ 力量/理念/顾虑迷茫莫忙，你能，我好，苦一诺啊～
+Dialogue: 0,0:00:25.96,0:00:31.53,Default,,0,0,0,,我多了那已西呀，把戏看里可多我？
+Dialogue: 0,0:00:31.74,0:00:36.97,Default,,0,0,0,,塞一口, 迷夜落单, ????, 大哭了哒/伞已够，你呀，那他～
+Dialogue: 0,0:00:37.32,0:00:42.81,Default,,0,0,0,,看我戏哀待苦了他
+Dialogue: 0,0:00:42.81,0:00:48.11,Default,,0,0,0,,而なだ 大雨呢 不安 你那 孤单 意满满/慢慢
+Dialogue: 0,0:00:48.81,0:00:54.04,Default,,0,0,0,,???? 过了一宿/绮丽多么可乐依旧 一次次哭?这头到那头/，气质只QQ
+Dialogue: 0,0:00:54.04,0:00:59.08,Default,,0,0,0,,??????? 啊 感慨一路/移入/爱你哇，是那意义多，我看涕一路
+Dialogue: 0,0:00:59.08,0:01:01.87,Default,,0,0,0,,爱我看那细密雨撒地
+Dialogue: 0,0:01:01.87,0:01:04.52,Default,,0,0,0,,还我苦路细密撒哀
+Dialogue: 0,0:01:04.52,0:01:10.11,Default,,0,0,0,,所有失败感哦/所诺是爱你是别她 啊！那大多投入你
+Dialogue: 0,0:01:10.11,0:01:15.55,Default,,0,0,0,,有了你的鼓励 /努力可以还那累担 一米感意，泪目没你我
+Dialogue: 0,0:01:15.55,0:01:21.04,Default,,0,0,0,,还没告诉你啊 ???可我泪难抑/还没干，糊了呀！路满的洼，可爱的那你
 Dialogue: 0,0:01:21.55,0:01:26.97,Default,,0,0,0,,
 Dialogue: 0,0:01:37.92,0:01:43.31,Default,,0,0,0,,苦等/可能那一天
 Dialogue: 0,0:01:43.31,0:01:48.64,Default,,0,0,0,,所诺你, 看哭夜大?????????
