@@ -12,15 +12,9 @@ Video File: Styx Helix.flv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-<<<<<<< HEAD
-Scroll Position: 30
-Active Line: 46
-Video Position: 4269
-=======
 Scroll Position: 15
 Active Line: 19
 Video Position: 1991
->>>>>>> fba4cd8... 空耳::Styx Helix(Full) 初稿🚀
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,30 +22,6 @@ Style: Default,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-<<<<<<< HEAD
-Dialogue: 0,0:00:17.78,0:00:20.04,Default,,0,0,0,,
-Dialogue: 0,0:00:20.04,0:00:22.56,Default,,0,0,0,,
-Dialogue: 0,0:00:25.74,0:00:27.90,Default,,0,0,0,,
-Dialogue: 0,0:00:27.90,0:00:30.08,Default,,0,0,0,,
-Dialogue: 0,0:00:35.72,0:00:39.54,Default,,0,0,0,,
-Dialogue: 0,0:00:39.54,0:00:43.42,Default,,0,0,0,,
-Dialogue: 0,0:00:43.42,0:00:47.28,Default,,0,0,0,,
-Dialogue: 0,0:00:47.28,0:00:52.54,Default,,0,0,0,,
-Dialogue: 0,0:00:54.06,0:00:59.66,Default,,0,0,0,,
-Dialogue: 0,0:00:59.66,0:01:00.80,Default,,0,0,0,,
-Dialogue: 0,0:01:00.80,0:01:02.94,Default,,0,0,0,,
-Dialogue: 0,0:01:02.94,0:01:05.28,Default,,0,0,0,,
-Dialogue: 0,0:01:05.28,0:01:07.20,Default,,0,0,0,,
-Dialogue: 0,0:01:07.20,0:01:09.72,Default,,0,0,0,,
-Dialogue: 0,0:01:09.72,0:01:12.26,Default,,0,0,0,,
-Dialogue: 0,0:01:12.26,0:01:16.32,Default,,0,0,0,,
-Dialogue: 0,0:01:16.32,0:01:18.66,Default,,0,0,0,,
-Dialogue: 0,0:01:18.66,0:01:20.46,Default,,0,0,0,,
-Dialogue: 0,0:01:20.46,0:01:23.04,Default,,0,0,0,,
-Dialogue: 0,0:01:23.04,0:01:25.36,Default,,0,0,0,,
-Dialogue: 0,0:01:25.36,0:01:30.66,Default,,0,0,0,,
-Dialogue: 0,0:01:30.66,0:01:34.40,Default,,0,0,0,,
-=======
 Dialogue: 0,0:00:17.78,0:00:20.04,Default,,0,0,0,,我复生的每天
 Dialogue: 0,0:00:20.04,0:00:22.56,Default,,0,0,0,,
 Dialogue: 0,0:00:25.74,0:00:27.90,Default,,0,0,0,,孤单没了后来/弄懂你的昂然
@@ -74,7 +44,6 @@ Dialogue: 0,0:01:20.46,0:01:23.04,Default,,0,0,0,,请别嚎啕大哭/彼此望 �
 Dialogue: 0,0:01:23.04,0:01:25.36,Default,,0,0,0,,苦难过了就明朗/可难看那心意啊/恐落他那凄命空看繁星明亮
 Dialogue: 0,0:01:25.36,0:01:30.66,Default,,0,0,0,,一直看 我愿你满是忧郁/异次元 /意志挽 我挽灵魂似游离/
 Dialogue: 0,0:01:30.66,0:01:34.40,Default,,0,0,0,,XX还是永恒/无能而(憾)死啊/ 无能而死啊
->>>>>>> fba4cd8... 空耳::Styx Helix(Full) 初稿🚀
 Dialogue: 0,0:01:34.94,0:01:38.54,Default,,0,0,0,,
 Dialogue: 0,0:01:38.54,0:01:42.76,Default,,0,0,0,,
 Dialogue: 0,0:01:42.76,0:01:46.38,Default,,0,0,0,,
@@ -112,16 +81,9 @@ Dialogue: 0,0:03:39.30,0:03:41.70,Default,,0,0,0,,
 Dialogue: 0,0:03:41.70,0:03:43.92,Default,,0,0,0,,
 Dialogue: 0,0:03:43.92,0:03:49.14,Default,,0,0,0,,
 Dialogue: 0,0:03:49.14,0:03:52.84,Default,,0,0,0,,
-<<<<<<< HEAD
-Dialogue: 0,0:03:54.72,0:03:58.32,Default,,0,0,0,,
-Dialogue: 0,0:03:58.32,0:03:59.56,Default,,0,0,0,,
-Dialogue: 0,0:04:02.98,0:04:06.10,Default,,0,0,0,,
-Dialogue: 0,0:04:06.10,0:04:07.38,Default,,0,0,0,,
-=======
 Dialogue: 0,0:03:54.72,0:03:58.32,Default,,0,0,0,,而我又在 为你挽留着/安慰她 为你抚揉这你的痛
 Dialogue: 0,0:03:58.32,0:03:59.56,Default,,0,0,0,,遗忘她
 Dialogue: 0,0:04:02.98,0:04:06.10,Default,,0,0,0,,我死了 回忆中凝结 /为了啥/ 一道光 归宿(会否)留待
 Dialogue: 0,0:04:06.10,0:04:07.38,Default,,0,0,0,,回忆她/kimita/被冰冻/ 
->>>>>>> fba4cd8... 空耳::Styx Helix(Full) 初稿🚀
 Dialogue: 0,0:04:08.34,0:04:12.90,Default,,0,0,0,,
 Dialogue: 0,0:04:14.16,0:04:24.70,Default,,0,0,0,,
