@@ -6,34 +6,37 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: こんな世界知りたくなかった.mp4
 Video File: こんな世界知りたくなかった.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 266
+Scroll Position: 6
+Active Line: 11
+Video Position: 1333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:11.09,Default,,0,0,0,,
 Dialogue: 0,0:00:11.09,0:00:16.56,Default,,0,0,0,,吾知多难 明我心田
-Dialogue: 0,0:00:16.90,0:00:20.67,Default,,0,0,0,,那里 我知大爱大义浓/答应我
-Dialogue: 0,0:00:22.33,0:00:27.16,Default,,0,0,0,,偶感路颠哇 可也担忧哭||吾感/无感?? 凄/泣 咽的幽苦
-Dialogue: 0,0:00:27.49,0:00:31.60,Default,,0,0,0,,爱吶太浓，载不走
-Dialogue: 0,0:00:33.15,0:00:35.02,Default,,0,0,0,,黑旗倒灭那一天
-Dialogue: 0,0:00:35.02,0:00:38.35,Default,,0,0,0,,所诺 也是 心伤往事
-Dialogue: 0,0:00:38.35,0:00:42.52,Default,,0,0,0,,暮色 幽影建立 有血意的路
-Dialogue: 0,0:00:43.74,0:00:46.21,Default,,0,0,0,,此 困难??的希望
-Dialogue: 0,0:00:46.21,0:00:48.97,Default,,0,0,0,,一起如意的磨难
-Dialogue: 0,0:00:48.97,0:00:54.37,Default,,0,0,0,,?锁扣我心田哟
-Dialogue: 0,0:00:55.57,0:01:00.89,Default,,0,0,0,,你多心上的坎坷路 我么落入/哭哪里
-Dialogue: 0,0:01:00.89,0:01:06.34,Default,,0,0,0,,以及你 此时的如 散布心代/红着眼 伤心不得
-Dialogue: 0,0:01:06.34,0:01:12.12,Default,,0,0,0,,大怜暮色的火都难抑我的伤感
-Dialogue: 0,0:01:12.12,0:01:17.25,Default,,0,0,0,,hi米 斗志的歌 可我拖累他
-Dialogue: 0,0:01:18.26,0:01:22.93,Default,,0,0,0,,多雾难隐的??? 都????哟
+Dialogue: 0,0:00:16.90,0:00:20.67,Default,,0,0,0,,那里 我知大爱大义浓/答应我/那凝望知刀影淡遗落
+Dialogue: 0,0:00:22.33,0:00:27.16,Default,,0,0,0,,吾感/无感路颠哇/吾感悟天亡  可也担忧哭 泣咽的幽苦
+Dialogue: 0,0:00:27.49,0:00:31.60,Default,,0,0,0,,爱吶太浓 载不走
+Dialogue: 0,0:00:33.15,0:00:35.02,Default,,0,0,0,,心起刀灭那一天
+Dialogue: 0,0:00:35.02,0:00:38.35,Default,,0,0,0,,所诺 也是 心伤往事/锁落雁 掩杀心伤 暗淡夺善
+Dialogue: 0,0:00:38.35,0:00:42.52,Default,,0,0,0,,暮色既临 有写意的路/用心域奠路
+Dialogue: 0,0:00:43.74,0:00:46.21,Default,,0,0,0,,阻不了渴爱的心哇
+Dialogue: 0,0:00:46.21,0:00:48.97,Default,,0,0,0,,一起如意(??)泯磨难
+Dialogue: 0,0:00:48.97,0:00:54.37,Default,,0,0,0,,一生 扣我心田哟
+Dialogue: 0,0:00:55.57,0:01:00.89,Default,,0,0,0,,你多心上的坎坷路 我么落入/哭哪里/雨都稀散的空空落下
+Dialogue: 0,0:01:00.89,0:01:03.56,Default,,0,0,0,,以及你 此时的如 散布心代/红着眼/
+Dialogue: 0,0:01:03.56,0:01:06.34,Default,,0,0,0,,红瞳也 伤心苦待
+Dialogue: 0,0:01:06.34,0:01:12.12,Default,,0,0,0,,大怜暮色的火都难抑我的伤感/离梦 刻苦铭心的苦痛呐已永忘伤感
+Dialogue: 0,0:01:12.12,0:01:17.25,Default,,0,0,0,,hi米 斗志的歌 可我拖累他/心多次/许多次
+Dialogue: 0,0:01:18.26,0:01:22.93,Default,,0,0,0,,多雾难隐的??? 都????哟/多难答应
 Dialogue: 0,0:01:23.17,0:01:28.42,Default,,0,0,0,,心里他苦难无感而到哪
