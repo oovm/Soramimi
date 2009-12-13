@@ -6,6 +6,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Skyreach.mp4
 Video File: Skyreach.mp4
 Video AR Mode: 4
@@ -15,28 +16,28 @@ Video Position: 250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:10.42,0:00:12.74,Default,,0,0,0,,
-Dialogue: 0,0:00:12.74,0:00:16.76,Default,,0,0,0,,孤苦伶仃开拓新征程 我魅影
-Dialogue: 0,0:00:17.89,0:00:21.78,Default,,0,0,0,,血中刻印红瞳半天 请斩断
-Dialogue: 0,0:00:23.31,0:00:26.89,Default,,0,0,0,,奋力战胜多少苦与难 暗杀他/后
+Dialogue: 0,0:00:12.74,0:00:16.76,Default,,0,0,0,,孤苦伶仃开拓新征程 我魅影||苛刻烙逆 坎坷心等她 我默抑
+Dialogue: 0,0:00:17.89,0:00:21.78,Default,,0,0,0,,血中刻印红瞳半天 请斩断||心死看腻 空刀乏怠 旗斩断
+Dialogue: 0,0:00:23.31,0:00:26.89,Default,,0,0,0,,奋力战胜多少苦与难 暗杀他/后||脱离末世 天灾弥漫 爱死亡
 Dialogue: 0,0:00:27.61,0:00:32.10,Default,,0,0,0,,这一刻 命运隐藏你红瞳里
-Dialogue: 0,0:00:32.88,0:00:35.87,Default,,0,0,0,,但愿名利与天命不会长眠
-Dialogue: 0,0:00:35.87,0:00:38.30,Default,,0,0,0,,我的血液已然沸腾
-Dialogue: 0,0:00:38.30,0:00:43.21,Default,,0,0,0,,阴霾的魔物已/无理不可奈
-Dialogue: 0,0:00:44.51,0:00:47.23,Default,,0,0,0,,跑起来少女 迈过尸体
-Dialogue: 0,0:00:47.23,0:00:49.42,Default,,0,0,0,,洗礼混沌世界的灰暗/阴暗
-Dialogue: 0,0:00:49.63,0:00:52.77,Default,,0,0,0,,渴望了蔚蓝的广阔天空
-Dialogue: 0,0:00:52.77,0:00:54.88,Default,,0,0,0,,暗夜中/暗影中 相互して
-Dialogue: 0,0:00:54.88,0:00:57.70,Default,,0,0,0,,那段情千年里仍在流传
-Dialogue: 0,0:00:57.70,0:01:00.14,Default,,0,0,0,,逃不了刻印与铭文/命运
-Dialogue: 0,0:01:00.14,0:01:03.12,Default,,0,0,0,,欲火中绽放后/于火中绽开后 光芒笼罩
-Dialogue: 0,0:01:03.12,0:01:06.08,Default,,0,0,0,,刻印在永恒回廊
-Dialogue: 0,0:01:06.34,0:01:08.33,Default,,0,0,0,,有缘千里 在一起战斗
-Dialogue: 0,0:01:08.33,0:01:10.27,Default,,0,0,0,,到达刻录尽头
-Dialogue: 0,0:01:10.64,0:01:12.64,Default,,0,0,0,,意志的大道里
-Dialogue: 0,0:01:12.64,0:01:15.57,Default,,0,0,0,,支配死亡 夺取明天
+Dialogue: 0,0:00:32.88,0:00:35.87,Default,,0,0,0,,但愿名利与天命不会长眠||懂得为了你挡刀 误开拓陌路
+Dialogue: 0,0:00:35.87,0:00:38.30,Default,,0,0,0,,我的血液已然沸腾||我的心那已漫空天
+Dialogue: 0,0:00:38.30,0:00:43.21,Default,,0,0,0,,阴霾的魔物已/无理不可奈||溢满亡 末路 一路坎壈
+Dialogue: 0,0:00:44.51,0:00:47.23,Default,,0,0,0,,跑起来少女 迈过尸体||寒心路消掉弥漫开伞蝶
+Dialogue: 0,0:00:47.23,0:00:49.42,Default,,0,0,0,,洗礼混沌世界的灰暗/阴暗||自由坎路谁该依偎
+Dialogue: 0,0:00:49.63,0:00:52.77,Default,,0,0,0,,渴望了蔚蓝的广阔天空||坎弯路雾霾里扩大爱答
+Dialogue: 0,0:00:52.77,0:00:54.88,Default,,0,0,0,,暗夜中/暗影中 相互して||爱落地生命里爱的应答
+Dialogue: 0,0:00:54.88,0:00:57.70,Default,,0,0,0,,那段情千年里仍在流传||爱溜到新起点
+Dialogue: 0,0:00:57.70,0:01:00.14,Default,,0,0,0,,逃不了刻印与铭文/命运||渴望了那一语美妄
+Dialogue: 0,0:01:00.14,0:01:03.12,Default,,0,0,0,,欲火中绽放后/于火中绽开后 光芒笼罩||懂得她掀开门可怜样子
+Dialogue: 0,0:01:03.12,0:01:06.08,Default,,0,0,0,,刻印在永恒回廊||空蔚天忧苦狂澜
+Dialogue: 0,0:01:06.34,0:01:08.33,Default,,0,0,0,,有缘千里 在一起战斗|| 心悲泣烂 刻意先点头
+Dialogue: 0,0:01:08.33,0:01:10.27,Default,,0,0,0,,到达刻录尽头|| 冻结路歧道
+Dialogue: 0,0:01:10.64,0:01:12.64,Default,,0,0,0,,意志的大道里||彼此看到耀丽 
+Dialogue: 0,0:01:12.64,0:01:15.57,Default,,0,0,0,,支配死亡 夺取明天||止哭 手拿动机默待
 Comment: 0,0:01:15.57,0:01:28.96,Default,,0,0,0,,
