@@ -1,5 +1,9 @@
-# Idea工程
+# 工程
 .idea/
+.vscode/
+.vs/
+Creations/参考资料/
+
 
 # 二进制
 *.jar
