@@ -1,0 +1,3 @@
+*.ass linguist-language=fsharp
+*.json linguist-language=arc
+*.md linguist-language=arc
