@@ -6,6 +6,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: 琪亚娜的极乐净土.mp4
 Video File: 琪亚娜的极乐净土.mp4
 Video AR Mode: 4
@@ -16,44 +17,44 @@ Video Position: 1369
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:32.24,Default,,0,0,0,,
-Dialogue: 0,0:00:32.24,0:00:35.10,Default,,0,0,0,,
-Dialogue: 0,0:00:35.97,0:00:39.00,Default,,0,0,0,,
-Dialogue: 0,0:00:39.68,0:00:42.19,Default,,0,0,0,,
-Dialogue: 0,0:00:42.37,0:00:45.62,Default,,0,0,0,,
-Dialogue: 0,0:00:45.62,0:00:49.81,Default,,0,0,0,,
-Dialogue: 0,0:00:50.16,0:00:52.93,Default,,0,0,0,,
-Dialogue: 0,0:00:52.93,0:00:57.10,Default,,0,0,0,,
-Dialogue: 0,0:00:57.54,0:01:00.54,Default,,0,0,0,,
-Dialogue: 0,0:01:00.54,0:01:04.16,Default,,0,0,0,,
-Dialogue: 0,0:01:04.16,0:01:08.05,Default,,0,0,0,,
-Dialogue: 0,0:01:08.30,0:01:11.54,Default,,0,0,0,,
-Dialogue: 0,0:01:11.74,0:01:16.17,Default,,0,0,0,,
+Dialogue: 0,0:00:32.24,0:00:35.10,Default,,0,0,0,,自黑夜降临 落幕入篝笼
+Dialogue: 0,0:00:35.97,0:00:39.00,Default,,0,0,0,,灯朦胧暗淡 秋红起舞
+Dialogue: 0,0:00:39.68,0:00:42.19,Default,,0,0,0,,梦醉里百焰兴怒 暗夜醉
+Dialogue: 0,0:00:42.37,0:00:45.62,Default,,0,0,0,,画纹理 缄默感 诉说一段时史
+Dialogue: 0,0:00:45.62,0:00:49.81,Default,,0,0,0,,娇怨的目光愚昧 迷恋歌舞
+Dialogue: 0,0:00:50.16,0:00:52.70,Default,,0,0,0,,梦游移 看那般凝开的思量
+Dialogue: 0,0:00:52.70,0:00:57.10,Default,,0,0,0,,感觉意识同脱开 熄灯影斑斓
+Dialogue: 0,0:00:57.54,0:01:00.54,Default,,0,0,0,,我已经迈上路 去那块旧土
+Dialogue: 0,0:01:00.54,0:01:04.16,Default,,0,0,0,,古道沿岸梧桐雨 孤高冷漠漫万里
+Dialogue: 0,0:01:04.16,0:01:08.05,Default,,0,0,0,,爱的大陆狂欢洒 抵达山巅
+Dialogue: 0,0:01:08.30,0:01:11.54,Default,,0,0,0,,涌动的云冻裂 冬季焰火绚烂
+Dialogue: 0,0:01:11.74,0:01:16.17,Default,,0,0,0,,歌谣音 涌魔力 来步入异世界
 Comment: 0,0:01:16.17,0:01:30.98,Default,,0,0,0,,
-Dialogue: 0,0:01:30.98,0:01:34.11,Default,,0,0,0,,
-Dialogue: 0,0:01:34.62,0:01:37.65,Default,,0,0,0,,
-Dialogue: 0,0:01:38.20,0:01:41.06,Default,,0,0,0,,
-Dialogue: 0,0:01:41.06,0:01:44.26,Default,,0,0,0,,
-Dialogue: 0,0:01:44.26,0:01:48.84,Default,,0,0,0,,
-Dialogue: 0,0:01:48.84,0:01:51.72,Default,,0,0,0,,
-Dialogue: 0,0:01:51.72,0:01:55.71,Default,,0,0,0,,
-Dialogue: 0,0:01:56.12,0:01:59.26,Default,,0,0,0,,
-Dialogue: 0,0:01:59.26,0:02:02.85,Default,,0,0,0,,
-Dialogue: 0,0:02:03.05,0:02:06.46,Default,,0,0,0,,
-Dialogue: 0,0:02:06.46,0:02:10.14,Default,,0,0,0,,
-Dialogue: 0,0:02:10.14,0:02:14.14,Default,,0,0,0,,
-Dialogue: 0,0:02:14.14,0:02:44.65,Default,,0,0,0,,
-Dialogue: 0,0:02:44.65,0:02:48.83,Default,,0,0,0,,
+Dialogue: 0,0:01:30.98,0:01:34.11,Default,,0,0,0,,舞姿狂炫 看上空寒冷落
+Dialogue: 0,0:01:34.62,0:01:37.65,Default,,0,0,0,,愿作歌祈礼 月光默祷
+Dialogue: 0,0:01:38.20,0:01:41.06,Default,,0,0,0,,狩猎流年 跟幻影齐热舞
+Dialogue: 0,0:01:41.06,0:01:44.26,Default,,0,0,0,,梦舞动 爱诚恳 安心答应
+Dialogue: 0,0:01:44.26,0:01:48.57,Default,,0,0,0,,焦郁倒映入瞳眸 仰头虚伪笑
+Dialogue: 0,0:01:48.84,0:01:51.68,Default,,0,0,0,,可委婉又哪堪 瞒过他心肝
+Dialogue: 0,0:01:51.68,0:01:55.71,Default,,0,0,0,,这个每刻堕落 褴褛的世界
+Dialogue: 0,0:01:56.12,0:01:59.26,Default,,0,0,0,,勇气便是心头 乐歌净土
+Dialogue: 0,0:01:59.26,0:02:02.85,Default,,0,0,0,,怒涛呜咽混沌月 故国沦没蛮荒岭
+Dialogue: 0,0:02:03.05,0:02:06.46,Default,,0,0,0,,你的泪露跟你一同 天命谁知
+Dialogue: 0,0:02:06.46,0:02:10.14,Default,,0,0,0,,涌动的云冻裂 冬至夜我思恋
+Dialogue: 0,0:02:10.35,0:02:14.29,Default,,0,0,0,,歌游吟 咏茉莉 爱已不能自己
+Comment: 0,0:02:14.29,0:02:44.65,Default,,0,0,0,,
+Dialogue: 0,0:02:44.65,0:02:48.83,Default,,0,0,0,,娇艳地一叩眸 仰头虚伪笑
 Comment: 0,0:02:48.83,0:02:52.09,Default,,0,0,0,,
 Dialogue: 0,0:02:52.09,0:02:56.41,Default,,0,0,0,,
 Dialogue: 0,0:02:56.41,0:02:59.70,Default,,0,0,0,,
-Dialogue: 0,0:02:59.70,0:03:03.29,Default,,0,0,0,,
-Dialogue: 0,0:03:03.29,0:03:07.18,Default,,0,0,0,,
-Dialogue: 0,0:03:07.41,0:03:10.84,Default,,0,0,0,,
-Dialogue: 0,0:03:10.84,0:03:14.48,Default,,0,0,0,,
-Dialogue: 0,0:03:14.48,0:03:20.26,Default,,0,0,0,,
+Dialogue: 0,0:02:59.70,0:03:03.29,Default,,0,0,0,,古道沿岸梧桐雨 孤高冷漠漫万里
+Dialogue: 0,0:03:03.50,0:03:07.18,Default,,0,0,0,,爱的大陆狂欢洒 抵达山巅
+Dialogue: 0,0:03:07.41,0:03:10.84,Default,,0,0,0,,涌动的云冻裂 冬之夜我思恋
+Dialogue: 0,0:03:10.84,0:03:14.48,Default,,0,0,0,,歌谣音 涌魔力 来步入异世界
+Dialogue: 0,0:03:14.48,0:03:20.26,Default,,0,0,0,,歌游吟 爱难当 爱已不能自己
 Comment: 0,0:03:21.14,0:03:34.11,Default,,0,0,0,,
