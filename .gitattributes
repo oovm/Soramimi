@@ -1,3 +1,5 @@
-*.ass linguist-language=fsharp
-*.json linguist-language=arc
-*.md linguist-language=arc
+Series/*.ass linguist-language=fsharp
+Single/*.ass linguist-language=nix
+Theme/*.ass linguist-language=nim
+*.json linguist-language=ruby
+*.md linguist-language=ruby
