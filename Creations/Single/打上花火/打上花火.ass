@@ -12,13 +12,12 @@ Video File: 打上花火.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 36
-Active Line: 52
-Video Position: 4577
+Active Line: 3
+Video Position: 797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,微软雅黑,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -43,7 +42,7 @@ Dialogue: 0,0:01:34.96,0:01:36.22,Default,,0,0,0,,到头来却很难
 Dialogue: 0,0:01:36.22,0:01:38.40,Default,,0,0,0,,遍布别离的冷酷难题
 Dialogue: 0,0:01:38.40,0:01:40.00,Default,,0,0,0,,把泪抹干后 忆难理
 Dialogue: 0,0:01:40.00,0:01:42.12,Default,,0,0,0,,把她轻柔的搂着
-Dialogue: 0,0:01:43.71,0:01:46.20,Default,,0,0,0,,???车停靠 ??
+Dialogue: 0,0:01:43.71,0:01:46.20,Default,,0,0,0,,一次次 奋斗过 勇敢过 又错过
 Dialogue: 0,0:01:46.20,0:01:48.34,Default,,0,0,0,,一段过往被隔断/割断
 Dialogue: 0,0:01:48.34,0:01:52.75,Default,,0,0,0,,小声说出 为什么痛?
 Dialogue: 0,0:01:53.98,0:01:55.87,Default,,0,0,0,,难涯的淡漠
@@ -59,40 +58,40 @@ Dialogue: 0,0:02:25.86,0:02:30.08,Default,,0,0,0,,祈祷不断 但愿/唯愿 一
 Dialogue: 0,0:02:30.86,0:02:33.39,Default,,0,0,0,,淡淡的希望与泪花
 Dialogue: 0,0:02:33.39,0:02:35.87,Default,,0,0,0,,混入灯火迷离的夜晚
 Dialogue: 0,0:02:35.87,0:02:40.85,Default,,0,0,0,,眼中刻满与他一路的感动
-Dialogue: 0,0:02:41.74,0:02:44.01,Default,,0,0,0,,不带憾的表白
+Dialogue: 0,0:02:41.74,0:02:44.01,Default,,0,0,0,,不带憾的表白|拨动寒冷月光
 Dialogue: 1,0:02:43.09,0:02:44.67,Default,,0,0,0,,
-Dialogue: 0,0:02:44.28,0:02:45.92,Default,,0,0,0,,和我浪漫相恋吧
+Dialogue: 0,0:02:44.28,0:02:45.92,Default,,0,0,0,,和我浪漫相恋吧|又与你赏烟花
 Dialogue: 1,0:02:45.56,0:02:47.47,Default,,0,0,0,,
-Dialogue: 0,0:02:46.76,0:02:49.02,Default,,0,0,0,,又何必闪躲呢
+Dialogue: 0,0:02:46.76,0:02:49.02,Default,,0,0,0,,又何必闪躲呢|忧虑应少一点
 Dialogue: 1,0:02:48.05,0:02:50.25,Default,,0,0,0,,
-Dialogue: 0,0:02:49.23,0:02:51.53,Default,,0,0,0,,心中分明确有他
+Dialogue: 0,0:02:49.23,0:02:51.53,Default,,0,0,0,,心中分明确有他|携手再次期待
 Dialogue: 1,0:02:50.42,0:02:52.45,Default,,0,0,0,,
-Dialogue: 0,0:02:51.73,0:02:54.58,Default,,0,0,0,,恍如忧伤的云朵|滑落了的雨滴
+Dialogue: 0,0:02:51.73,0:02:54.58,Default,,0,0,0,,恍如忧伤的云朵|滑落了的雨滴|话浓缩到一点
 Dialogue: 1,0:02:53.01,0:02:55.04,Default,,0,0,0,,
-Dialogue: 0,0:02:54.24,0:02:57.04,Default,,0,0,0,,落入装故事的海|波纹似光水荡开
+Dialogue: 0,0:02:54.24,0:02:57.04,Default,,0,0,0,,落入装故事的海|波纹似光水荡开|梦此刻心打开
 Dialogue: 1,0:02:55.52,0:02:57.56,Default,,0,0,0,,
-Dialogue: 0,0:02:56.73,0:02:58.05,Default,,0,0,0,,莫说故事写的快
-Dialogue: 0,0:02:58.05,0:03:01.61,Default,,0,0,0,,同你慢慢读
+Dialogue: 0,0:02:56.73,0:02:58.05,Default,,0,0,0,,莫说故事写的快||梦此刻心打开
+Dialogue: 0,0:02:58.05,0:03:01.61,Default,,0,0,0,,同你慢慢读||回到那当年
 Comment: 0,0:03:01.61,0:03:10.88,Default,,0,0,0,,
-Dialogue: 0,0:03:10.88,0:03:15.54,Default,,0,0,0,,
-Dialogue: 0,0:03:15.84,0:03:20.35,Default,,0,0,0,,
-Dialogue: 0,0:03:20.76,0:03:25.86,Default,,0,0,0,,
-Dialogue: 0,0:03:25.86,0:03:29.65,Default,,0,0,0,,
-Dialogue: 0,0:03:30.90,0:03:33.36,Default,,0,0,0,,
-Dialogue: 0,0:03:33.36,0:03:35.84,Default,,0,0,0,,
-Dialogue: 0,0:03:35.84,0:03:40.89,Default,,0,0,0,,
-Dialogue: 0,0:03:40.89,0:03:43.33,Default,,0,0,0,,
-Dialogue: 0,0:03:43.33,0:03:45.89,Default,,0,0,0,,
-Dialogue: 0,0:03:45.89,0:03:50.88,Default,,0,0,0,,
-Dialogue: 0,0:03:51.49,0:03:54.64,Default,,0,0,0,,
-Dialogue: 0,0:03:54.64,0:03:57.12,Default,,0,0,0,,
-Dialogue: 0,0:03:57.12,0:04:00.90,Default,,0,0,0,,
-Dialogue: 0,0:04:01.47,0:04:04.65,Default,,0,0,0,,
-Dialogue: 0,0:04:04.65,0:04:08.38,Default,,0,0,0,,
-Dialogue: 0,0:04:08.38,0:04:11.53,Default,,0,0,0,,
-Dialogue: 0,0:04:11.53,0:04:14.62,Default,,0,0,0,,
-Dialogue: 0,0:04:14.62,0:04:17.12,Default,,0,0,0,,
-Dialogue: 0,0:04:17.12,0:04:21.49,Default,,0,0,0,,
-Dialogue: 0,0:04:21.49,0:04:24.65,Default,,0,0,0,,
-Dialogue: 0,0:04:24.65,0:04:31.71,Default,,0,0,0,,
+Dialogue: 0,0:03:10.88,0:03:15.54,Default,,0,0,0,,看那海面啊 荡起他那片笑容
+Dialogue: 0,0:03:15.84,0:03:20.35,Default,,0,0,0,,遗忘 默默的 圣诞
+Dialogue: 0,0:03:20.76,0:03:25.86,Default,,0,0,0,,是那么温暖 靠上他 ????
+Dialogue: 0,0:03:25.86,0:03:29.65,Default,,0,0,0,,凄美流星落 ???
+Dialogue: 0,0:03:30.90,0:03:33.36,Default,,0,0,0,,不断地回到了上一刻
+Dialogue: 0,0:03:33.36,0:03:35.84,Default,,0,0,0,,好让你不必多哀叹
+Dialogue: 0,0:03:35.84,0:03:40.89,Default,,0,0,0,,悸动懵懂 我为了爱等着他
+Dialogue: 0,0:03:40.89,0:03:43.33,Default,,0,0,0,,爱慕与那款款的爱
+Dialogue: 0,0:03:43.33,0:03:45.89,Default,,0,0,0,,都化作天空的烟花
+Dialogue: 0,0:03:45.89,0:03:50.88,Default,,0,0,0,,快乐焉能辜负 陪我去看吧
+Dialogue: 0,0:03:51.49,0:03:54.64,Default,,0,0,0,,啦啦啦啦 啦啦啦
+Dialogue: 0,0:03:54.64,0:03:57.12,Default,,0,0,0,,啦啦啦 啦啦啦
+Dialogue: 0,0:03:57.12,0:04:01.47,Default,,0,0,0,,啦啦 啦啦啦
+Dialogue: 0,0:04:01.47,0:04:04.65,Default,,0,0,0,,啦啦啦啦 啦啦啦
+Dialogue: 0,0:04:04.65,0:04:08.38,Default,,0,0,0,,啦啦啦 啦啦啦
+Dialogue: 0,0:04:08.38,0:04:11.53,Default,,0,0,0,,啦啦啦 啦啦
+Dialogue: 0,0:04:11.53,0:04:14.62,Default,,0,0,0,,啦啦啦啦 啦啦啦
+Dialogue: 0,0:04:14.62,0:04:17.12,Default,,0,0,0,,啦啦啦 啦啦啦
+Dialogue: 0,0:04:17.12,0:04:21.49,Default,,0,0,0,,啦啦 啦啦啦
+Dialogue: 0,0:04:21.49,0:04:24.65,Default,,0,0,0,,啦啦啦啦 啦啦啦
+Dialogue: 0,0:04:24.65,0:04:31.71,Default,,0,0,0,,啦啦啦啦 啦啦啦 啦啦 啦啦啦 啦啦啦
 Comment: 0,0:04:31.71,0:04:40.45,Default,,0,0,0,,
