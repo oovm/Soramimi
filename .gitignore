@@ -4,7 +4,7 @@
 .vs/
 Creations/Fonts/
 Creations/参考资料/
-
+temp*
 
 # 二进制
 *.jar
