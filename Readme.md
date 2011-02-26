@@ -20,8 +20,8 @@ git clone https://github.com/GalAster/Soramimi.git --depth=1
 ## 目录结构
 
 ```yaml
-- Tools        (构建脚本)
-- Creations    (作品主目录)
+- Tools      (构建脚本)
+- Creations  (作品主目录)
     - Fonts  (字幕字体)
     - Series (作品系列)
     - Single (单曲创作)
