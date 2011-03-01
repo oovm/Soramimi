@@ -11,6 +11,7 @@ Video File: Unravel.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
+Active Line: 1
 Video Position: 36
 
 [V4+ Styles]
@@ -19,28 +20,28 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.50,0:00:05.68,Default,,0,0,0,,
-Dialogue: 0,0:00:05.30,0:00:07.48,Default,,0,0,0,,
-Dialogue: 0,0:00:09.10,0:00:12.00,Default,,0,0,0,,
-Dialogue: 0,0:00:12.64,0:00:15.36,Default,,0,0,0,,
-Dialogue: 0,0:00:16.16,0:00:19.52,Default,,0,0,0,,
-Dialogue: 0,0:00:19.76,0:00:22.12,Default,,0,0,0,,
-Dialogue: 0,0:00:23.31,0:00:25.53,Default,,0,0,0,,
-Dialogue: 0,0:00:26.89,0:00:29.44,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:01.50,Default,,0,0,0,,
+Dialogue: 0,0:00:01.50,0:00:05.16,Default,,0,0,0,,哦 漆黑的夜 漆黑的夜
+Dialogue: 0,0:00:05.30,0:00:07.48,Default,,0,0,0,,所诺 虚空迷惘/那虚空迷惑
+Dialogue: 0,0:00:09.10,0:00:12.00,Default,,0,0,0,,崩溃的那个你/不哭
+Dialogue: 0,0:00:12.64,0:00:15.36,Default,,0,0,0,,当脸孔已沦落/怠累快一路呢。    
+Dialogue: 0,0:00:16.16,0:00:19.52,Default,,0,0,0,,歌/恐  亡灵的苦 亡灵的忧
+Dialogue: 0,0:00:19.76,0:00:22.12,Default,,0,0,0,,空洞谁的阴天/空落再快一点
+Dialogue: 0,0:00:23.31,0:00:25.53,Default,,0,0,0,,请你快忘了我
+Dialogue: 0,0:00:26.89,0:00:29.44,Default,,0,0,0,,迷梦被撕裂
 Comment: 0,0:00:29.44,0:00:42.86,Default,,0,0,0,,
-Dialogue: 0,0:00:42.86,0:00:45.95,Default,,0,0,0,,
-Dialogue: 0,0:00:46.40,0:00:48.89,Default,,0,0,0,,
-Dialogue: 0,0:00:48.89,0:00:49.79,Default,,0,0,0,,
-Dialogue: 0,0:00:49.79,0:00:52.21,Default,,0,0,0,,
-Dialogue: 0,0:00:51.79,0:00:53.56,Default,,0,0,0,,
-Dialogue: 0,0:00:53.56,0:00:56.05,Default,,0,0,0,,
-Dialogue: 0,0:00:56.05,0:01:00.58,Default,,0,0,0,,
-Dialogue: 0,0:01:00.58,0:01:04.13,Default,,0,0,0,,
-Dialogue: 0,0:01:04.13,0:01:06.26,Default,,0,0,0,,
-Dialogue: 0,0:01:06.04,0:01:08.94,Default,,0,0,0,,
-Dialogue: 0,0:01:09.66,0:01:11.23,Default,,0,0,0,,
+Dialogue: 0,0:00:42.86,0:00:45.95,Default,,0,0,0,,渴望令他 不可能退缩
+Dialogue: 0,0:00:46.40,0:00:48.89,Default,,0,0,0,,已遗忘的明天/遗弃我的明天
+Dialogue: 0,0:00:48.89,0:00:49.79,Default,,0,0,0,,freeze
+Dialogue: 0,0:00:49.79,0:00:51.79,Default,,0,0,0,,空望着路，空望着那
+Dialogue: 0,0:00:51.79,0:00:53.56,Default,,0,0,0,,，哭了一路，苦了也耐。
+Dialogue: 0,0:00:53.56,0:00:56.05,Default,,0,0,0,,哀乐难磨 意志坚定
+Dialogue: 0,0:00:56.05,0:01:00.58,Default,,0,0,0,,欲理解，又感到撕开你等待剥除的。/跌宕痛苦哇
+Dialogue: 0,0:01:00.58,0:01:04.13,Default,,0,0,0,,是刺痛无比 靡弃的那天
+Dialogue: 0,0:01:04.13,0:01:08.94,Default,,0,0,0,,迷失的那天 ，忧哭的红瞳哦
+Dialogue: 0,0:01:09.66,0:01:11.23,Default,,0,0,0,,迷失在那天
 Dialogue: 0,0:01:11.39,0:01:14.92,Default,,0,0,0,,
-Dialogue: 0,0:01:14.92,0:01:18.75,Default,,0,0,0,,
-Dialogue: 0,0:01:18.48,0:01:20.41,Default,,0,0,0,,
+Dialogue: 0,0:01:14.92,0:01:18.48,Default,,0,0,0,,~~~~~无可奈何哟
+Dialogue: 0,0:01:18.48,0:01:20.27,Default,,0,0,0,,
 Dialogue: 0,0:01:20.27,0:01:22.70,Default,,0,0,0,,
 Comment: 0,0:01:22.70,0:01:27.12,Default,,0,0,0,,
