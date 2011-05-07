@@ -27,3 +27,12 @@ git clone https://github.com/GalAster/Soramimi.git --depth=1
     - Single (单曲创作)
     - Theme  (主题系列)
 ```
+
+## 阶段标记
+
+- 🎬(Stage 1): 计划阶段
+- 🔥(Stage 2): 准备状态
+- 🚀(Stage 3): 创作阶段
+- 🎼(Stage 4): 完结状态
+- 🎨(Stage 5): 修订阶段
+
