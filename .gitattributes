@@ -1,5 +1,4 @@
-Creations/Series/*.ass linguist-language=fsharp
-Creations/Single/*.ass linguist-language=nix
-Creations/Theme/*.ass linguist-language=nim
+*.k.ass linguist-language=fsharp
+*.ass linguist-language=nix
 *.json linguist-language=ruby
 *.md linguist-language=ruby
