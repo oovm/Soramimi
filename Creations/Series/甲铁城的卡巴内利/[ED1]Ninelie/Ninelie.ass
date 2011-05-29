@@ -6,43 +6,39 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Ninelie.flv
 Video File: Ninelie.flv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 21
-Active Line: 26
-Video Position: 3287
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.72,0:00:25.22,Default,,0,0,0,,请你哦 /可留我
-Dialogue: 0,0:00:25.22,0:00:27.06,Default,,0,0,0,,沉沦理想的梦/只能孤守那片我心
-Dialogue: 0,0:00:27.06,0:00:30.40,Default,,0,0,0,,我醒来 新得知/不必死亡/不必失望
-Dialogue: 0,0:00:30.82,0:00:33.02,Default,,0,0,0,,一直涌动醒的梦
-Dialogue: 0,0:00:33.90,0:00:35.90,Default,,0,0,0,,噩梦么
-Dialogue: 0,0:00:36.48,0:00:39.26,Default,,0,0,0,, 恶魔竟然 ?????/
-Dialogue: 0,0:00:39.26,0:00:42.08,Default,,0,0,0,,雨落入墙壁  
+Comment: 0,0:00:00.00,0:00:22.72,Default,,0,0,0,,
+Dialogue: 0,0:00:22.72,0:00:28.12,Default,,0,0,0,,情迷惘 只能孤守那片我心
+Dialogue: 0,0:00:28.12,0:00:33.90,Default,,0,0,0,,那些痛楚 撼动我颓唐的梦
+Dialogue: 0,0:00:33.90,0:00:39.26,Default,,0,0,0,,噩梦么  我铭记哀 命运轮回 
+Dialogue: 0,0:00:39.26,0:00:42.08,Default,,0,0,0,,担忧掠过光阴 
 Dialogue: 0,0:00:42.08,0:00:44.30,Default,,0,0,0,,可我孤单的灵魂
-Dialogue: 0,0:00:45.14,0:00:49.68,Default,,0,0,0,,那一天我望着雾
+Dialogue: 0,0:00:45.14,0:00:49.68,Default,,0,0,0,,那一天我望着路
 Dialogue: 0,0:00:50.40,0:00:52.42,Default,,0,0,0,, 孤单夜里
 Dialogue: 0,0:00:52.42,0:00:55.30,Default,,0,0,0,, 刺骨的痛
-Dialogue: 0,0:00:55.60,0:01:00.74,Default,,0,0,0,,等离开谁零落成泥
-Dialogue: 0,0:01:01.24,0:01:05.06,Default,,0,0,0,, 恐只恋他乡
-Dialogue: 0,0:01:05.52,0:01:08.78,Default,,0,0,0,,
-Dialogue: 0,0:01:08.78,0:01:11.92,Default,,0,0,0,,
-Dialogue: 0,0:01:11.92,0:01:14.72,Default,,0,0,0,,
-Dialogue: 0,0:01:14.72,0:01:17.62,Default,,0,0,0,,
-Dialogue: 0,0:01:17.62,0:01:23.20,Default,,0,0,0,,
-Dialogue: 0,0:01:23.20,0:01:30.08,Default,,0,0,0,,xxx 中
-Dialogue: 0,0:01:54.70,0:01:57.04,Default,,0,0,0,,做得到
-Dialogue: 0,0:01:57.44,0:02:00.52,Default,,0,0,0,,
-Dialogue: 0,0:02:00.52,0:02:02.56,Default,,0,0,0,,
+Dialogue: 0,0:00:55.60,0:01:00.74,Default,,0,0,0,,等离开谁零落成泥 雾里看星乱画天明
+Dialogue: 0,0:01:01.24,0:01:05.06,Default,,0,0,0,,恐只恋他乡 苦楚略带 伤
+Dialogue: 0,0:01:05.52,0:01:08.78,Default,,0,0,0,,此刻默哀的铁骏 晨光满天
+Dialogue: 0,0:01:08.78,0:01:11.92,Default,,0,0,0,,??? 疏离多
+Dialogue: 0,0:01:11.92,0:01:14.72,Default,,0,0,0,,爱哭个 多可爱
+Dialogue: 0,0:01:14.72,0:01:17.62,Default,,0,0,0,,甩开悲痛难安的梦
+Dialogue: 0,0:01:17.62,0:01:23.20,Default,,0,0,0,,安能到掉泪  苦闷痛苦来临
+Dialogue: 0,0:01:23.20,0:01:30.08,Default,,0,0,0,,xxx 中 ?? 漠视 难懂
+Comment: 0,0:01:30.08,0:01:54.70,Default,,0,0,0,,
+Dialogue: 0,0:01:54.70,0:02:00.14,Default,,0,0,0,,做得到 还是如此有你判断 
+Dialogue: 0,0:02:00.14,0:02:02.56,Default,,0,0,0,,不避失败
 Dialogue: 0,0:02:02.94,0:02:05.34,Default,,0,0,0,,一直涌动新的梦
 Dialogue: 0,0:02:05.98,0:02:08.18,Default,,0,0,0,,
 Dialogue: 0,0:02:08.64,0:02:14.16,Default,,0,0,0,,
@@ -59,20 +55,20 @@ Dialogue: 0,0:02:49.62,0:02:55.18,Default,,0,0,0,,我空有战意 砍尽了事�
 Dialogue: 0,0:02:55.18,0:03:01.24,Default,,0,0,0,,但可能杀的人会比救的多
 Dialogue: 0,0:03:04.70,0:03:07.24,Default,,0,0,0,,瞳孔淡漠
 Dialogue: 0,0:03:07.24,0:03:09.82,Default,,0,0,0,, 送葬烈士们
-Dialogue: 0,0:03:09.82,0:03:12.78,Default,,0,0,0,,宿命的万千涟漪啊 
+Dialogue: 0,0:03:09.82,0:03:12.78,Default,,0,0,0,,宿命的万千涟漪啊
 Dialogue: 0,0:03:12.78,0:03:15.74,Default,,0,0,0,,恐吓你我还统统不前(不言)
 Dialogue: 0,0:03:15.74,0:03:18.22,Default,,0,0,0,,直到现在
 Dialogue: 0,0:03:18.22,0:03:20.76,Default,,0,0,0,,
 Dialogue: 0,0:03:20.76,0:03:23.48,Default,,0,0,0,,每个生命的天空
 Dialogue: 0,0:03:23.48,0:03:27.22,Default,,0,0,0,, 藏着灰烬和心脏
-Dialogue: 0,0:03:28.02,0:03:31.12,Default,,0,0,0,,痛苦必要淡去 
+Dialogue: 0,0:03:28.02,0:03:31.12,Default,,0,0,0,,痛苦必要淡去 苦等抗争凯旋
 Dialogue: 0,0:03:31.12,0:03:34.26,Default,,0,0,0,,太多人动乱的一生
 Dialogue: 0,0:03:34.26,0:03:37.12,Default,,0,0,0,,拿起刀 斩宿命
 Dialogue: 0,0:03:37.12,0:03:39.92,Default,,0,0,0,,我们的灵魂相应了么
-Dialogue: 0,0:03:39.92,0:03:42.34,Default,,0,0,0,,boku 的战意/崩溃的道义
+Dialogue: 0,0:03:39.92,0:03:42.34,Default,,0,0,0,,boku 的战意/崩溃的道义 破空的弹雨 刻记往事的永恒
 Dialogue: 0,0:03:42.34,0:03:45.52,Default,,0,0,0,,砍尽那世间的妖厄/看见人性凋落
-Dialogue: 0,0:03:45.52,0:03:51.48,Default,,0,0,0,,dakala
-Dialogue: 0,0:03:55.54,0:04:00.18,Default,,0,0,0,,don't be afraid doube has come X1
-Dialogue: 0,0:04:01.12,0:04:06.14,Default,,0,0,0,,don't be afraid doube has come X2
+Dialogue: 0,0:03:45.52,0:03:51.48,Default,,0,0,0,,大家的伤忧往事 已埋藏雾中
+Dialogue: 0,0:03:55.54,0:04:00.18,Default,,0,0,0,,don't be afraid doube has come X1 这命运
+Dialogue: 0,0:04:01.12,0:04:06.14,Default,,0,0,0,,don't be afraid doube has come X2 
 Dialogue: 0,0:04:06.78,0:04:11.34,Default,,0,0,0,,don't be afraid doube has come X3
 Dialogue: 0,0:04:12.18,0:04:17.28,Default,,0,0,0,,don't be afraid doube has come X4
