@@ -10,9 +10,7 @@ Audio File: scaPEGoat.mp4
 Video File: scaPEGoat.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 19
-Video Position: 2100
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,23 +18,24 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:11.78,Default,,0,0,0,, 
-Dialogue: 0,0:00:11.78,0:00:14.78,Default,,0,0,0,,
-Dialogue: 0,0:00:14.78,0:00:18.12,Default,,0,0,0,,
-Dialogue: 0,0:00:19.00,0:00:23.25,Default,,0,0,0,,
-Dialogue: 0,0:00:24.01,0:00:28.29,Default,,0,0,0,,
-Dialogue: 0,0:00:28.29,0:00:30.78,Default,,0,0,0,,
-Dialogue: 0,0:00:31.36,0:00:34.45,Default,,0,0,0,,
-Dialogue: 0,0:00:34.81,0:00:37.54,Default,,0,0,0,,
-Dialogue: 0,0:00:37.54,0:00:40.59,Default,,0,0,0,,
-Dialogue: 0,0:00:40.59,0:00:43.69,Default,,0,0,0,,
-Dialogue: 0,0:00:47.13,0:00:50.18,Default,,0,0,0,,
-Dialogue: 0,0:00:50.18,0:00:53.08,Default,,0,0,0,,
-Dialogue: 0,0:00:53.08,0:00:55.57,Default,,0,0,0,,
-Dialogue: 0,0:00:58.24,0:01:04.42,Default,,0,0,0,,
-Dialogue: 0,0:01:04.42,0:01:10.37,Default,,0,0,0,,
-Dialogue: 0,0:01:10.37,0:01:14.05,Default,,0,0,0,,
-Dialogue: 0,0:01:14.05,0:01:16.72,Default,,0,0,0,,
-Dialogue: 0,0:01:16.72,0:01:20.20,Default,,0,0,0,,
-Dialogue: 0,0:01:20.59,0:01:27.56,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:11.78,Default,,0,0,0,,
+Dialogue: 0,0:00:11.78,0:00:14.78,Default,,0,0,0,,内心觅到行路
+Dialogue: 0,0:00:14.78,0:00:18.12,Default,,0,0,0,,逃离高阁嘶鸣
+Dialogue: 0,0:00:19.00,0:00:23.25,Default,,0,0,0,,苦痛来到 船舶埋没/ 哀悼 止步迷茫
+Dialogue: 0,0:00:24.01,0:00:28.29,Default,,0,0,0,,望天残余高喊
+Dialogue: 0,0:00:28.29,0:00:30.78,Default,,0,0,0,,苦乐明朗
+Dialogue: 0,0:00:31.36,0:00:34.45,Default,,0,0,0,,弃友愧痛感慨/岂有?
+Dialogue: 0,0:00:34.81,0:00:37.54,Default,,0,0,0,,骇临江而彷
+Dialogue: 0,0:00:37.54,0:00:40.54,Default,,0,0,0,,欲以刀突围
+Dialogue: 0,0:00:40.54,0:00:43.93,Default,,0,0,0,,挥戈看微澜
+Dialogue: 0,0:00:47.13,0:00:50.18,Default,,0,0,0,,抗击彼军逃离忧痛
+Dialogue: 0,0:00:50.18,0:00:53.08,Default,,0,0,0,,恐惧犹在逃避死亡
+Dialogue: 0,0:00:53.08,0:00:56.18,Default,,0,0,0,,独挡哀苦你忘了吗
+Dialogue: 0,0:00:58.24,0:01:04.42,Default,,0,0,0,,狂猛不堪的风貌 还问我为何
+Dialogue: 0,0:01:04.42,0:01:10.37,Default,,0,0,0,, 回看那寒心的梦 泪干矣叹时至
+Dialogue: 0,0:01:10.37,0:01:14.05,Default,,0,0,0,,战役残骸我亦当
+Dialogue: 0,0:01:14.05,0:01:16.72,Default,,0,0,0,,涌动信仰
+Dialogue: 0,0:01:16.72,0:01:20.20,Default,,0,0,0,,看逆党已端勇斗耐抗
+Dialogue: 0,0:01:20.59,0:01:22.51,Default,,0,0,0,,光明理必有
+Dialogue: 0,0:01:22.51,0:01:27.50,Default,,0,0,0,,把凯歌赞咏
 Comment: 0,0:01:27.56,0:01:30.58,Default,,0,0,0,,
