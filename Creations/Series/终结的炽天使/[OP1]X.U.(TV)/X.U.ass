@@ -6,15 +6,16 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: X.U.mp4
 Video File: X.U.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -27,11 +28,13 @@ Dialogue: 0,0:00:32.97,0:00:36.98,Default,,0,0,0,,而我为安慰着你伤心 �
 Dialogue: 0,0:00:36.98,0:00:41.47,Default,,0,0,0,,为了我 危险和谁战
 Dialogue: 0,0:00:41.90,0:00:46.96,Default,,0,0,0,,多少次 都来此 来杀去这些魔鬼
 Dialogue: 0,0:00:47.29,0:00:54.97,Default,,0,0,0,,等你拥抱 你要来说爱你
-Dialogue: 0,0:00:55.30,0:01:02.68,Default,,0,0,0,,哀被爱笼罩 被情绪损耗 谁会保佑你
-Dialogue: 0,0:01:03.16,0:01:10.49,Default,,0,0,0,,爱为此而战 斩杀猎狩 如今谁安好
+Dialogue: 0,0:00:55.30,0:00:59.77,Default,,0,0,0,,爱被谁笼罩 被情绪损耗
+Dialogue: 0,0:00:59.77,0:01:02.68,Default,,0,0,0,,谁会被愚弄
+Dialogue: 0,0:01:03.16,0:01:07.40,Default,,0,0,0,,爱为此而战 斩善恶是非啊
+Dialogue: 0,0:01:07.40,0:01:10.42,Default,,0,0,0,,看如今随风
 Dialogue: 0,0:01:11.29,0:01:14.77,Default,,0,0,0,,我扶着你的手 不会分离
-Dialogue: 0,0:01:14.77,0:01:18.53,Default,,0,0,0,,为这生陪着你 而守护了那 
-Dialogue: 0,0:01:18.53,0:01:22.34,Default,,0,0,0,,对我周围的信任的伙伴的情
-Dialogue: 0,0:01:22.34,0:01:25.36,Default,,0,0,0,,我把它联系上 和你相伴
-Dialogue: 0,0:01:25.36,0:01:27.84,Default,,0,0,0,,这胜败 都如空
+Dialogue: 0,0:01:14.77,0:01:18.53,Default,,0,0,0,,为这生陪着你 而守护到老
+Dialogue: 0,0:01:18.53,0:01:22.34,Default,,0,0,0,,对我周围的羁绊 有伙伴的情
+Dialogue: 0,0:01:22.34,0:01:25.12,Default,,0,0,0,,{\k121}我把它联系 {\k67}是我的{\k90}征途厮伴
+Dialogue: 0,0:01:25.12,0:01:27.84,Default,,0,0,0,,这胜败 都如空
 Comment: 0,0:01:27.84,0:01:33.06,Default,,0,0,0,,
