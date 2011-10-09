@@ -10,37 +10,37 @@ Audio File: Two souls.mp4
 Video File: Two souls.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:18.77,Default,,0,0,0,,
-Dialogue: 0,0:00:18.77,0:00:21.58,Default,,0,0,0,,自由多优美 迷的雁塔
-Dialogue: 0,0:00:21.87,0:00:24.45,Default,,0,0,0,,悾惘的所谓那珂眸
-Dialogue: 0,0:00:24.60,0:00:27.48,Default,,0,0,0,,堕弃无苦哀
-Dialogue: 0,0:00:27.48,0:00:30.35,Default,,0,0,0,,说来谁淡落 夜洒夕散
-Dialogue: 0,0:00:30.60,0:00:33.50,Default,,0,0,0,,忽动明夜戈戮所泪沥
-Dialogue: 0,0:00:33.50,0:00:36.21,Default,,0,0,0,,凄迷那悔改 我挨过苦
-Dialogue: 0,0:00:36.21,0:00:39.06,Default,,0,0,0,,哀落涵盖哪 崩溃的戒网
+Dialogue: 0,0:00:18.77,0:00:21.58,Default,,0,0,0,,自由多优美 迷的一天
+Dialogue: 0,0:00:21.87,0:00:24.45,Default,,0,0,0,,空望 的所谓那珂眸/??????
+Dialogue: 0,0:00:24.60,0:00:27.48,Default,,0,0,0,,堕弃无苦哀 可我所期待
+Dialogue: 0,0:00:27.48,0:00:30.35,Default,,0,0,0,,说来谁淡落 夜色夕散
+Dialogue: 0,0:00:30.60,0:00:33.50,Default,,0,0,0,,忽动明夜戈戮所恋你
+Dialogue: 0,0:00:33.50,0:00:36.21,Default,,0,0,0,,凄迷哪悔改 我挨的苦
+Dialogue: 0,0:00:36.21,0:00:39.06,Default,,0,0,0,,哀落涵盖哪 崩溃的戒网/情网
 Dialogue: 0,0:00:39.06,0:00:41.92,Default,,0,0,0,,己感悟谁 可以磨灭他
 Dialogue: 0,0:00:42.24,0:00:44.98,Default,,0,0,0,,暴露隐没爱河的路
-Dialogue: 0,0:00:44.98,0:00:48.02,Default,,0,0,0,,心襟爱无可淡忘
-Dialogue: 0,0:00:48.02,0:00:50.81,Default,,0,0,0,,荡漾是你空洞的苦
-Dialogue: 0,0:00:50.81,0:00:53.72,Default,,0,0,0,,说来可有愧 我心仪的路
+Dialogue: 0,0:00:44.98,0:00:48.02,Default,,0,0,0,,心襟/无极  爱无可淡忘
+Dialogue: 0,0:00:48.02,0:00:50.81,Default,,0,0,0,,荡漾 失意/是你 空洞的瞳
+Dialogue: 0,0:00:50.81,0:00:53.72,Default,,0,0,0,,说来可有愧 我心仪的路/ 心意奠路
 Dialogue: 0,0:00:53.72,0:00:57.54,Default,,0,0,0,,忌惮你的淡雅迷离 苦守留他
-Dialogue: 0,0:00:57.54,0:00:59.54,Default,,0,0,0,,可难觅 及我速速
-Dialogue: 0,0:00:59.54,0:01:03.12,Default,,0,0,0,,默念苦胆直落 我没你感慨 哪埋骨
-Dialogue: 0,0:01:03.12,0:01:05.41,Default,,0,0,0,,亲密我没梦里大意
-Dialogue: 0,0:01:05.41,0:01:08.41,Default,,0,0,0,,浩看哪里 更寂寞
-Dialogue: 0,0:01:08.41,0:01:11.17,Default,,0,0,0,,恪守你我 把开心买单
-Dialogue: 0,0:01:11.17,0:01:14.25,Default,,0,0,0,,
-Dialogue: 0,0:01:14.25,0:01:17.10,Default,,0,0,0,,看她细密 给你洒泪弹
-Dialogue: 0,0:01:17.10,0:01:19.95,Default,,0,0,0,,
-Dialogue: 0,0:01:19.95,0:01:22.62,Default,,0,0,0,,善良乐观 抹杀的信念
+Dialogue: 0,0:00:57.54,0:00:59.54,Default,,0,0,0,,可难觅 及我速速默念
+Dialogue: 0,0:00:59.54,0:01:03.12,Default,,0,0,0,,苦胆直落 我没你感慨 哪埋骨
+Dialogue: 0,0:01:03.12,0:01:05.41,Default,,0,0,0,,亲密我没梦里大意/打赢
+Dialogue: 0,0:01:05.41,0:01:08.41,Default,,0,0,0,,还/浩看哪里 更寂寞
+Dialogue: 0,0:01:08.41,0:01:11.17,Default,,0,0,0,,恪守你我 把开心买单/刻意心
+Dialogue: 0,0:01:11.17,0:01:14.25,Default,,0,0,0,,打气呀赶路 多给我力量/??
+Dialogue: 0,0:01:14.25,0:01:17.10,Default,,0,0,0,,看她细密/她那 给你洒泪弹
+Dialogue: 0,0:01:17.10,0:01:19.95,Default,,0,0,0,,割舍往事过往 空望泪途
+Dialogue: 0,0:01:19.95,0:01:22.62,Default,,0,0,0,,善良乐观 抹杀的信念/??
 Dialogue: 0,0:01:22.62,0:01:25.30,Default,,0,0,0,,可能我们因该悲苦难过
 Dialogue: 0,0:01:25.30,0:01:28.89,Default,,0,0,0,,只有颗心记住爱过悲极迷孤
 Comment: 0,0:01:28.89,0:01:33.06,Default,,0,0,0,,
