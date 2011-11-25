@@ -27,6 +27,7 @@ temp*
 
 
 # 其他歌词格式
+*.txt
 *.lrc
 *.srt
 *.acplay
