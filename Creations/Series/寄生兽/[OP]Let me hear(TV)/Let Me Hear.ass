@@ -12,32 +12,46 @@ Video File: Let Me Hear.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 5
-Video Position: 346
+Scroll Position: 27
+Active Line: 30
+Video Position: 1995
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Vocal,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.12,0:00:03.94,Default,,0,0,0,,又感到满满离散味
-Dialogue: 0,0:00:03.94,0:00:06.26,Default,,0,0,0,,爱感叹家是那个英雄没回啊
-Dialogue: 0,0:00:06.26,0:00:09.12,Default,,0,0,0,,无出路
-Dialogue: 0,0:00:09.12,0:00:11.76,Default,,0,0,0,,觉得他会赌那一赌
-Dialogue: 0,0:00:11.76,0:00:14.40,Default,,0,0,0,,想半天 饮那杯水
-Dialogue: 0,0:00:14.40,0:00:18.10,Default,,0,0,0,,会不会带来神的保佑 亲爱的 谁看到
-Dialogue: 0,0:00:18.10,0:00:28.16,Default,,0,0,0,,善的唯美和坦荡
-Dialogue: 0,0:00:32.38,0:00:35.24,Default,,0,0,0,,未输的败因这性格
-Dialogue: 0,0:00:35.24,0:00:39.20,Default,,0,0,0,,为爱能往飞而宁可死去啊
-Dialogue: 0,0:00:39.20,0:00:42.78,Default,,0,0,0,,不能等 去往地狱杀往佛台
-Dialogue: 0,0:00:43.06,0:00:46.04,Default,,0,0,0,,食完饭（走飞）你收费（继续飞） 人未坏 心残废
-Dialogue: 0,0:00:45.76,0:00:49.20,Default,,0,0,0,,我的意义存在哪
-Dialogue: 0,0:00:49.20,0:00:54.16,Default,,0,0,0,,爱和梦背离那泪一直存在
-Dialogue: 0,0:00:54.16,0:00:59.42,Default,,0,0,0,,洒满了荒诞花粉味啊
-Dialogue: 0,0:00:58.70,0:01:01.56,Default,,0,0,0,,（这味道）那杀不恶
-Dialogue: 0,0:01:01.96,0:01:07.00,Default,,0,0,0,,爱 可等你day day day
-Dialogue: 0,0:01:06.72,0:01:12.72,Default,,0,0,0,,怎可能恍惚了因为所以的真挚
-Dialogue: 0,0:01:12.72,0:01:18.52,Default,,0,0,0,,可怜我的爱呢
+Dialogue: 0,0:00:01.12,0:00:03.94,Default,,0,0,0,,又感知牢牢   离散味 寐残眉
+Dialogue: 0,0:00:03.94,0:00:06.26,Default,,0,0,0,,爱感叹家  是那个英雄没回啊
+Dialogue: 0,0:00:06.26,0:00:09.12,Default,,0,0,0,,又脉丝巍峨/淹没罪恶 哀思微离 无出路 
+Dialogue: 0,0:00:09.12,0:00:11.76,Default,,0,0,0,,觉得他会 吐了一路/喂独难咽
+Dialogue: 0,0:00:11.76,0:00:14.40,Default,,0,0,0,,想半天/要为你 夜难寐??
+Dialogue: 0,0:00:14.40,0:00:16.98,Default,,0,0,0,,会不会带来神的保佑 亲爱的 谁看到 梅闭待耐醉留晚 未必坦然
+Dialogue: 0,0:00:16.98,0:00:19.56,Default,,0,0,0,,亲爱的 谁看到 梅闭待耐醉留晚 万岁乃迭
+Dialogue: 0,0:00:19.56,0:00:28.16,Default,,0,0,0,,善的唯美和坦荡/生的意义被颠倒
+Dialogue: 0,0:00:32.38,0:00:35.24,Default,,0,0,0,,未输的败因为谁歌?  哦我选择背离这性格
+Dialogue: 0,0:00:35.24,0:00:39.20,Default,,0,0,0,,为爱能往飞而宁可死去啊 为何脑海的细胞里歌颂罪恶
+Dialogue: 0,0:00:39.20,0:00:42.78,Default,,0,0,0,,不能等 不懂得 霭动荡违碍籁乐唯叛离 诱抹蜜 倚晴呗寂寞
+Dialogue: 0,0:00:43.06,0:00:46.04,Default,,0,0,0,,食完饭 你收费 /人未坏 心残废
+Dialogue: 1,0:00:43.92,0:00:45.20,Vocal,,0,0,0,,有的飞/无所谓
+Dialogue: 1,0:00:45.22,0:00:46.58,Vocal,,0,0,0,,继续飞
+Dialogue: 0,0:00:45.76,0:00:49.20,Default,,0,0,0,,我的意义存在哪 为了利益 为了生活
+Dialogue: 1,0:00:45.76,0:00:49.20,Vocal,,0,0,0,,腹痛我不要啊 卑鄙啊
+Dialogue: 0,0:00:49.20,0:00:54.16,Default,,0,0,0,,爱和梦背离 那泪一直存在 玩味 采撷
+Dialogue: 1,0:00:49.20,0:00:54.16,Default,,0,0,0,,为你放下啊 增加
+Dialogue: 0,0:00:54.16,0:00:58.78,Default,,0,0,0,,霎那间 平静的包围我 手拉手 洒满了荒诞花粉味啊 散谈哀繁醉卧祠钩银盎
+Dialogue: 0,0:00:58.78,0:01:01.56,Default,,0,0,0,,右手不恶
+Dialogue: 0,0:00:58.78,0:01:01.56,Default,,0,0,0,,（这味道）
+Dialogue: 0,0:01:01.96,0:01:07.00,Default,,0,0,0,,爱 可等你放声歌唱/啊 荷透雨打渴蝶 遨游/爱意
+Dialogue: 0,0:01:06.72,0:01:12.72,Default,,0,0,0,,怎可能/可难理解天明倒影着 恍惚了因为所以的真挚 所在霓凄绮靡络绎 坎坷路
+Dialogue: 0,0:01:12.72,0:01:18.52,Default,,0,0,0,,可怜我的爱呢 揩采那薄暮蜡油沥 蓑衣倚凄暮 大概吧 不可能让你相依偎下去
+Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,看蓝天多光亮 繁??杂
 Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,（糊涂遗忘了内心）
+Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,（确定将我放弃）
+Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,（我也放弃右手）
+Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,（你的右手再也不要）
+Dialogue: 0,0:01:18.52,0:01:23.20,Default,,0,0,0,,不要!!!
+Dialogue: 0,0:01:23.20,0:01:30.54,Default,,0,0,0,,我的一生要你在
 Dialogue: 0,0:01:23.20,0:01:30.54,Default,,0,0,0,,（所愿遗忘了所愿）
