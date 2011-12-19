@@ -12,9 +12,7 @@ Video File: Let Me Hear.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 27
-Active Line: 26
-Video Position: 1967
+Video Position: 2204
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,19 +21,19 @@ Style: Vocal,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.12,0:00:03.94,Default,,0,0,0,,又感知牢牢   离散味 寐残眉
-Dialogue: 0,0:00:03.94,0:00:06.26,Default,,0,0,0,,那个/爱感叹家 的秘密 是那个英雄没回啊 
+Dialogue: 0,0:00:01.12,0:00:03.94,Default,,0,0,0,,又感到满满离丧味
+Dialogue: 0,0:00:03.94,0:00:06.26,Default,,0,0,0,,挨个探究的秘密
 Dialogue: 0,0:00:06.26,0:00:09.12,Default,,0,0,0,,淹没罪恶 无出路
-Dialogue: 0,0:00:09.12,0:00:11.76,Default,,0,0,0,,觉得他会 不能告慰 嘟囔一路 吐了一路/喂独难咽
+Dialogue: 0,0:00:09.12,0:00:11.76,Default,,0,0,0,,不能告慰 嘟囔一路
 Dialogue: 0,0:00:11.76,0:00:14.40,Default,,0,0,0,,要为你 夜难寐
 Dialogue: 0,0:00:14.40,0:00:16.98,Default,,0,0,0,,未必坦然 侵蚀着我
 Dialogue: 0,0:00:16.98,0:00:19.56,Default,,0,0,0,,亲爱的 谁看到
 Dialogue: 0,0:00:19.56,0:00:28.16,Default,,0,0,0,,生的意义被颠倒
 Dialogue: 0,0:00:32.38,0:00:35.24,Default,,0,0,0,,哦 我选择背离这性格
 Dialogue: 0,0:00:35.24,0:00:39.20,Default,,0,0,0,,为何脑海在悲鸣 歌颂罪恶
-Dialogue: 0,0:00:39.20,0:00:42.78,Default,,0,0,0,,心中的 希望被肆意破坏
+Dialogue: 0,0:00:39.20,0:00:43.06,Default,,0,0,0,,心中的 希望被肆意破坏
 Dialogue: 0,0:00:43.06,0:00:45.82,Default,,0,0,0,,人未坏 心残废
-Dialogue: 0,0:00:45.82,0:00:49.20,Default,,0,0,0,,我的意义存在哪 为了利益 为了生活
+Dialogue: 0,0:00:45.82,0:00:49.20,Default,,0,0,0,,为了利益 为了生活
 Dialogue: 0,0:00:43.92,0:00:45.20,Vocal,,0,0,0,,(无所畏)
 Dialogue: 0,0:00:45.22,0:00:46.58,Vocal,,0,0,0,,(有我陪)
 Dialogue: 0,0:00:46.96,0:00:49.20,Vocal,,0,0,0,,(无知 弱小 卑鄙啊)
@@ -45,9 +43,9 @@ Dialogue: 0,0:00:54.16,0:00:58.78,Default,,0,0,0,,手拉手 平静的包围我
 Dialogue: 0,0:00:58.78,0:01:01.56,Default,,0,0,0,,右手不恶
 Dialogue: 0,0:00:58.04,0:01:00.84,Vocal,,0,0,0,,(这味道)
 Dialogue: 0,0:01:01.96,0:01:07.00,Default,,0,0,0,,爱 可等你放声歌唱
-Dialogue: 0,0:01:07.00,0:01:12.72,Default,,0,0,0,,怎可能/可难理解天明倒影坎坷路
+Dialogue: 0,0:01:07.00,0:01:12.72,Default,,0,0,0,,可难离别 天明倒影坎坷路
 Dialogue: 0,0:01:12.72,0:01:18.52,Default,,0,0,0,,大概吧 不可能让你相依偎一路
-Dialogue: 0,0:01:18.52,0:01:23.02,Default,,0,0,0,,看蓝天多光亮/天亮难以入眠
+Dialogue: 0,0:01:18.52,0:01:23.02,Default,,0,0,0,,天亮难以入眠
 Dialogue: 0,0:01:20.24,0:01:22.04,Vocal,,0,0,0,,(糊涂 忘了 内心 枯萎)
 Dialogue: 0,0:01:22.00,0:01:23.20,Vocal,,0,0,0,,(我也 放弃 右手)
 Dialogue: 0,0:01:23.28,0:01:24.88,Vocal,,0,0,0,,(右手 再也 再也 不要)
