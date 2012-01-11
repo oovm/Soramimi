@@ -6,6 +6,7 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: RAIMEI.mp4
 Video File: RAIMEI.mp4
 Video AR Mode: 4
@@ -14,37 +15,38 @@ Video Zoom Percent: 0.625000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:01.63,Default,,0,0,0,,
-Dialogue: 0,0:00:01.63,0:00:03.85,Default,,0,0,0,,孤狼雾 卧霾影 索然谷 无甘露
-Dialogue: 0,0:00:04.33,0:00:08.17,Default,,0,0,0,,两岸岭 落花混 情可染 诗篇
-Dialogue: 0,0:00:08.17,0:00:10.86,Default,,0,0,0,,幽美 燃尽南山 那首歌
-Dialogue: 0,0:00:10.86,0:00:13.54,Default,,0,0,0,,轻烟 路勘探 骑楼千古
-Dialogue: 0,0:00:13.54,0:00:16.21,Default,,0,0,0,,疾风 朗逸过多 弯路连天
-Dialogue: 0,0:00:16.21,0:00:18.86,Default,,0,0,0,,手勾画 仿叹息 吟游潭
-Dialogue: 0,0:00:18.86,0:00:23.52,Default,,0,0,0,,那希望 让迷惘 来给我开路
-Dialogue: 0,0:00:23.52,0:00:26.83,Default,,0,0,0,,掀开引力 星罗引 晴天直落 
-Dialogue: 0,0:00:26.83,0:00:28.86,Default,,0,0,0,,幻影 暗影 领奏诸天
-Dialogue: 0,0:00:29.70,0:00:32.21,Default,,0,0,0,,烟酒朦胧 拥乐历史 琴里梦若离
-Dialogue: 0,0:00:32.21,0:00:33.68,Default,,0,0,0,,生命指可能
-Dialogue: 0,0:00:35.09,0:00:40.64,Default,,0,0,0,,无能还在引路
-Dialogue: 0,0:00:40.64,0:00:46.03,Default,,0,0,0,,练就你 每个 误差 因果 后果
-Dialogue: 0,0:00:46.03,0:00:48.35,Default,,0,0,0,,舞动里 资质可点
+Dialogue: 0,0:00:01.63,0:00:03.85,Default,,0,0,0,,孤狼雾 卧霾影 索然谷 无赶路/????????
+Dialogue: 0,0:00:04.33,0:00:08.17,Default,,0,0,0,,两岸岭 落花混/?????? 情可染 诗篇
+Dialogue: 0,0:00:08.17,0:00:10.86,Default,,0,0,0,,又梦 燃尽南山 那首歌
+Dialogue: 0,0:00:10.86,0:00:13.54,Default,,0,0,0,,轻烟 无感叹息/路勘探泣 哪埋骨 
+Dialogue: 0,0:00:13.54,0:00:16.21,Default,,0,0,0,,疾风 难忆过多 弯路连天
+Dialogue: 0,0:00:16.21,0:00:18.86,Default,,0,0,0,,手勾画 仿叹息/马叹息 吟游潭
+Dialogue: 0,0:00:18.86,0:00:23.52,Default,,0,0,0,,哪期望 勿要迷惘 都给我开路
+Dialogue: 0,0:00:23.52,0:00:26.83,Default,,0,0,0,,掀开引力 星罗引 青雷直落
+Dialogue: 0,0:00:26.83,0:00:28.86,Default,,0,0,0,,烙印暗影 领奏诸天
+Dialogue: 0,0:00:29.70,0:00:32.21,Default,,0,0,0,,烟酒朦胧 永乐历史 苦闷梦若离
+Dialogue: 0,0:00:32.21,0:00:33.68,Default,,0,0,0,,宿命止可能
+Dialogue: 0,0:00:35.09,0:00:37.69,Default,,0,0,0,,直奔那可能，命運天落那給我
+Dialogue: 0,0:00:37.69,0:00:40.64,Default,,0,0,0,,混沌哪敢阴毒
+Dialogue: 0,0:00:40.64,0:00:46.03,Default,,0,0,0,,魔宫里 每顾芜杂  因果 后果
+Dialogue: 0,0:00:46.03,0:00:48.35,Default,,0,0,0,,舞动里 资质可点/无道理 只知??
 Dialogue: 0,0:00:48.35,0:00:50.72,Default,,0,0,0,,安然 细勾勒 天烁然 目可睹
-Dialogue: 0,0:00:50.90,0:00:54.85,Default,,0,0,0,,面对感应 冉冉建立乐园 武林
-Dialogue: 0,0:00:54.85,0:00:57.61,Default,,0,0,0,,有没 冉静孤山 那首歌
-Dialogue: 0,0:00:57.61,0:01:00.00,Default,,0,0,0,,轻烟 如看到 倾落炼骨
+Dialogue: 0,0:00:50.90,0:00:54.85,Default,,0,0,0,,面对感应 冉冉建立乐园 武林/无敌
+Dialogue: 0,0:00:54.85,0:00:57.61,Default,,0,0,0,,幽梦 冉静孤山 那首歌
+Dialogue: 0,0:00:57.61,0:01:00.00,Default,,0,0,0,,轻烟 如看到/流光 倾落炼骨/ 绕媚骨
 Dialogue: 0,0:01:00.00,0:01:03.01,Default,,0,0,0,,踏高 明珠踏青 高过了火
-Dialogue: 0,0:01:03.01,0:01:05.58,Default,,0,0,0,,嚎练胆 刻录傲腼腆
+Dialogue: 0,0:01:03.01,0:01:05.58,Default,,0,0,0,,嚎练胆 刻录傲腼腆/ 
 Dialogue: 0,0:01:05.58,0:01:08.19,Default,,0,0,0,,想起 昂首那首傲人炙歌
 Dialogue: 0,0:01:08.19,0:01:10.94,Default,,0,0,0,,还要 将给我 叨变故
 Dialogue: 0,0:01:10.94,0:01:13.53,Default,,0,0,0,,投契 踏青来舞 你怎么了
 Dialogue: 0,0:01:13.53,0:01:16.27,Default,,0,0,0,,说够贪 我们都一样
 Dialogue: 0,0:01:16.27,0:01:18.67,Default,,0,0,0,,偷开阴影 阳已落
-Dialogue: 0,0:01:18.67,0:01:20.86,Default,,0,0,0,,魔驻点闇顾 
-Dialogue: 0,0:01:20.86,0:01:24.18,Default,,0,0,0,,撕开阴天 让今朝\N琴瑟起落
-Dialogue: 0,0:01:24.18,0:01:26.99,Default,,0,0,0,, 烙印蜡印\N映着瞬间
+Dialogue: 0,0:01:18.67,0:01:20.86,Default,,0,0,0,,魔驻点闇顾/魔主殿暗舞
+Dialogue: 0,0:01:20.86,0:01:24.18,Default,,0,0,0,,撕开阴天 让今朝 琴瑟起落/世界也要給他 琴瑟起落
+Dialogue: 0,0:01:24.18,0:01:26.99,Default,,0,0,0,,烙印蜡印 映着瞬间/ 你正是剑
 Comment: 0,0:01:26.99,0:01:30.45,Default,,0,0,0,,
