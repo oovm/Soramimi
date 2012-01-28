@@ -11,10 +11,10 @@ Audio File: Styx Helix.flv
 Video File: Styx Helix.flv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 19
-Video Position: 1991
+Video Zoom Percent: 0.625000
+Scroll Position: 36
+Active Line: 43
+Video Position: 3808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,6 +22,7 @@ Style: Default,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:17.78,Default,,0,0,0,,
 Dialogue: 0,0:00:17.78,0:00:20.04,Default,,0,0,0,,我复生的每天
 Dialogue: 0,0:00:20.04,0:00:22.56,Default,,0,0,0,,
 Dialogue: 0,0:00:25.74,0:00:27.90,Default,,0,0,0,,孤单没了后来/弄懂你的昂然
@@ -36,7 +37,7 @@ Dialogue: 0,0:01:00.80,0:01:02.94,Default,,0,0,0,,我必须在明天/不服输�
 Dialogue: 0,0:01:02.94,0:01:05.28,Default,,0,0,0,,为你for爱 由她去 /爱情 for your torch/眼泪烦忧擦去
 Dialogue: 0,0:01:05.28,0:01:07.20,Default,,0,0,0,,已忘掉 那一幕/ 你的谎, 难以抹/为爱放 由他去/忆的痛 那希望
 Dialogue: 0,0:01:07.20,0:01:09.72,Default,,0,0,0,,那苦涩伤痛又临 /那苦涩的爱满溢/那股伤痛又临/那哭瞎的亡灵/  那苦涩的爱还溢
-Dialogue: 0,0:01:09.72,0:01:12.26,Default,,0,0,0,,我的希望 我思念的/ 我无声的埋没/我的心魔 我撕裂的 /我的希望. 
+Dialogue: 0,0:01:09.72,0:01:12.26,Default,,0,0,0,,我的希望 我思念的/ 我无声的埋没/我的心魔 我撕裂的 /我的希望.
 Dialogue: 0,0:01:12.26,0:01:16.32,Default,,0,0,0,,繁星漫天 restart/还记得吗 /还浸灭的/好几遍的 restart
 Dialogue: 0,0:01:16.32,0:01:18.66,Default,,0,0,0,,难忘梦里的 后来 /难忘你让我昂然/黯然/读档没了后来/
 Dialogue: 0,0:01:18.66,0:01:20.46,Default,,0,0,0,,流失了 失淡然/来生仍是待爱/挚爱
@@ -84,6 +85,6 @@ Dialogue: 0,0:03:49.14,0:03:52.84,Default,,0,0,0,,
 Dialogue: 0,0:03:54.72,0:03:58.32,Default,,0,0,0,,而我又在 为你挽留着/安慰她 为你抚揉这你的痛
 Dialogue: 0,0:03:58.32,0:03:59.56,Default,,0,0,0,,遗忘她
 Dialogue: 0,0:04:02.98,0:04:06.10,Default,,0,0,0,,我死了 回忆中凝结 /为了啥/ 一道光 归宿(会否)留待
-Dialogue: 0,0:04:06.10,0:04:07.38,Default,,0,0,0,,回忆她/kimita/被冰冻/ 
+Dialogue: 0,0:04:06.10,0:04:07.38,Default,,0,0,0,,回忆她/kimita/被冰冻/
 Dialogue: 0,0:04:08.34,0:04:12.90,Default,,0,0,0,,
 Dialogue: 0,0:04:14.16,0:04:24.70,Default,,0,0,0,,
