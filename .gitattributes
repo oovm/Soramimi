@@ -1,4 +1,7 @@
-*.k.ass linguist-language=fsharp
-*.ass linguist-language=nix
-*.json linguist-language=ruby
-*.md linguist-language=ruby
+*.m         text   diff=mathematica
+*.ass       text   linguist-language=nix    diff=text
+*.k.ass     text   linguist-language=fsharp diff=text
+*.tcax.ass  binary linguist-language=fsharp diff=text
+*.toml      text   linguist-language=arc
+*.json      text   linguist-language=arc
+*.md        text   linguist-language=mathematica

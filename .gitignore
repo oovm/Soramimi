@@ -14,6 +14,8 @@ temp*
 *.MP3
 *.MP4
 *.MP5
+*.flac
+*.ogg
 
 # 视频
 *.flv
@@ -35,8 +37,9 @@ temp*
 *.xml
 *.tcax.ass
 
-# 会声会影工程
+# 视频工程
 *.vsp
+*.prproj
 
 # 字体文件
 *.ttc
