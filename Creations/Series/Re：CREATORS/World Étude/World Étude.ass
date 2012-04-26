@@ -6,33 +6,39 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: World Étude.mp4
 Video File: World Étude.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 312
+Video Zoom Percent: 0.375000
+Active Line: 20
+Video Position: 2091
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:10.40,Default,,0,0,0,,
 Dialogue: 0,0:00:10.40,0:00:12.52,Default,,0,0,0,,这凄凉的月光
 Dialogue: 0,0:00:12.52,0:00:15.52,Default,,0,0,0,,洒在余无奈的侧颜
-Dialogue: 0,0:00:16.18,0:00:20.82,Default,,0,0,0,,迷离的夜晚 哪里能默默淹没我
+Dialogue: 0,0:00:16.18,0:00:18.04,Default,,0,0,0,,迷离的夜晚
+Dialogue: 0,0:00:18.04,0:00:20.82,Default,,0,0,0,,哪里能默默淹没我
 Dialogue: 0,0:00:21.16,0:00:23.32,Default,,0,0,0,,吾为了要见她
 Dialogue: 0,0:00:23.32,0:00:26.08,Default,,0,0,0,,孤独的无声到这里
-Dialogue: 0,0:00:26.58,0:00:28.64,Default,,0,0,0,,但侮辱害死她/啊无畏的期待
-Dialogue: 0,0:00:28.64,0:00:33.02,Default,,0,0,0,,我痛苦感到坠入了地狱
-Dialogue: 0,0:00:33.46,0:00:37.50,Default,,0,0,0,,眼中这世界消亡并与她无奈凋落
+Dialogue: 0,0:00:26.58,0:00:28.64,Default,,0,0,0,,啊 无谓的期待
+Dialogue: 0,0:00:28.64,0:00:33.02,Default,,0,0,0,,我痛苦 感到坠入了地狱
+Dialogue: 0,0:00:33.46,0:00:37.50,Default,,0,0,0,,眼中 这世界消亡 并与她无奈凋落
 Comment: 0,0:00:37.50,0:00:39.80,Default,,0,0,0,,
-Dialogue: 0,0:00:39.80,0:00:46.16,Default,,0,0,0,,我坠入到‘鸟笼’ 有了你的噩梦啊不存在
-Dialogue: 0,0:00:46.16,0:00:50.44,Default,,0,0,0,,只有你的那面貌 在梦中如此的灿烂
-Dialogue: 0,0:00:50.44,0:00:56.84,Default,,0,0,0,,看见她空灵的身影 断裂的梦隔开余和你
-Dialogue: 0,0:00:56.84,0:01:02.92,Default,,0,0,0,,孤独的世界你打开它从恶梦唤醒我
+Dialogue: 0,0:00:39.80,0:00:41.80,Default,,0,0,0,,我坠入 爱的梦
+Dialogue: 0,0:00:41.80,0:00:46.16,Default,,0,0,0,,有了你的爱 噩梦啊不存在
+Dialogue: 0,0:00:46.16,0:00:48.14,Default,,0,0,0,,只有你的那面貌
+Dialogue: 0,0:00:48.14,0:00:50.44,Default,,0,0,0,,梦中看到如此灿烂
+Dialogue: 0,0:00:50.44,0:00:52.82,Default,,0,0,0,,看见她空灵的身影
+Dialogue: 0,0:00:52.82,0:00:56.84,Default,,0,0,0,,感悟难觅的梦 隔开爱难抑
+Dialogue: 0,0:00:56.84,0:00:58.52,Default,,0,0,0,,孤独的世界里
+Dialogue: 0,0:00:58.52,0:01:02.92,Default,,0,0,0,,你打开它从恶梦唤醒我
 Dialogue: 0,0:01:03.40,0:01:09.70,Default,,0,0,0,,刹那 是她拯救我
 Comment: 0,0:01:09.70,0:01:31.26,Default,,0,0,0,,
