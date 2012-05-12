@@ -11,8 +11,8 @@ Video File: shØut.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 3
-Video Position: 260
+Active Line: 24
+Video Position: 2044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,28 +21,28 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.96,Default,,0,0,0,,
-Dialogue: 0,0:00:05.96,0:00:08.26,Default,,0,0,0,,
-Dialogue: 0,0:00:08.26,0:00:10.58,Default,,0,0,0,,
-Dialogue: 0,0:00:10.84,0:00:13.06,Default,,0,0,0,,
-Dialogue: 0,0:00:12.86,0:00:15.08,Default,,0,0,0,,
-Dialogue: 0,0:00:15.08,0:00:19.78,Default,,0,0,0,,
-Dialogue: 0,0:00:19.58,0:00:24.04,Default,,0,0,0,,
-Dialogue: 0,0:00:24.04,0:00:28.60,Default,,0,0,0,,
-Dialogue: 0,0:00:28.90,0:00:33.24,Default,,0,0,0,,
-Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,
-Dialogue: 0,0:00:37.62,0:00:46.08,Default,,0,0,0,,
-Dialogue: 0,0:00:46.70,0:00:50.36,Default,,0,0,0,,
-Dialogue: 0,0:00:50.36,0:00:52.96,Default,,0,0,0,,
-Dialogue: 0,0:00:52.96,0:00:55.82,Default,,0,0,0,,
-Dialogue: 0,0:00:55.82,0:00:59.48,Default,,0,0,0,,
-Dialogue: 0,0:00:59.48,0:01:02.06,Default,,0,0,0,,
-Dialogue: 0,0:01:02.06,0:01:04.90,Default,,0,0,0,,
-Dialogue: 0,0:01:04.90,0:01:07.42,Default,,0,0,0,,
-Dialogue: 0,0:01:07.42,0:01:09.66,Default,,0,0,0,,
-Dialogue: 0,0:01:09.66,0:01:13.90,Default,,0,0,0,,
-Dialogue: 0,0:01:14.22,0:01:16.52,Default,,0,0,0,,
-Dialogue: 0,0:01:16.44,0:01:19.02,Default,,0,0,0,,
-Dialogue: 0,0:01:18.68,0:01:22.98,Default,,0,0,0,,
-Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,
-Dialogue: 0,0:01:25.22,0:01:27.56,Default,,0,0,0,,
+Dialogue: 0,0:00:05.96,0:00:08.26,Default,,0,0,0,,叹灭贪图冥旨恕火
+Dialogue: 0,0:00:08.26,0:00:10.58,Default,,0,0,0,,龛影岚蝶霸别朔我
+Dialogue: 0,0:00:10.84,0:00:12.86,Default,,0,0,0,,
+Dialogue: 0,0:00:12.86,0:00:15.08,Default,,0,0,0,,一枯枝埋她未来的哀辞
+Dialogue: 0,0:00:15.08,0:00:19.58,Default,,0,0,0,,我舍众 何必舍众 释迦特 勒寺伐奥
+Dialogue: 0,0:00:19.58,0:00:24.04,Default,,0,0,0,,以此祸临 浪狂蝶爱未飞 守卫看到 七尺哪吒
+Dialogue: 0,0:00:24.04,0:00:28.60,Default,,0,0,0,,他的梦 输了她 爱是命加佛傲
+Dialogue: 0,0:00:28.90,0:00:33.24,Default,,0,0,0,,骑烈火他踏歌 欺我落 记得吗
+Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,一起说帝火的诗歌 都抹杀 爱你
+Dialogue: 0,0:00:37.62,0:00:46.08,Default,,0,0,0,,说 狂蝶怒 国泰脉夺 曙天誓霾~
+Dialogue: 0,0:00:46.70,0:00:50.36,Default,,0,0,0,,夜~~~割撕裂悲劫火
+Dialogue: 0,0:00:50.36,0:00:52.96,Default,,0,0,0,,世寒碧紫阳
+Dialogue: 0,0:00:52.96,0:00:55.82,Default,,0,0,0,,已逝命 扬斗佛 未殃巅瞬
+Dialogue: 0,0:00:55.82,0:00:59.48,Default,,0,0,0,,夜~~~一世愧敌我
+Dialogue: 0,0:00:59.48,0:01:02.06,Default,,0,0,0,,帝寒舍利焰
+Dialogue: 0,0:01:02.06,0:01:04.90,Default,,0,0,0,,幽离世 喔~喔~月祸如瞬
+Dialogue: 0,0:01:05.16,0:01:07.42,Default,,0,0,0,,为龙的弱弱弱
+Dialogue: 0,0:01:07.42,0:01:09.66,Default,,0,0,0,,舍己的他他他~
+Dialogue: 0,0:01:09.66,0:01:13.90,Default,,0,0,0,,古刹怒豪笑透哀声
+Dialogue: 0,0:01:14.22,0:01:16.44,Default,,0,0,0,,叹灭贪图冥旨恕我 为龙的弱弱弱
+Dialogue: 0,0:01:16.44,0:01:18.68,Default,,0,0,0,,舍己的他他他~
+Dialogue: 0,0:01:18.68,0:01:22.98,Default,,0,0,0,,苦笑露灏晓透哑声
+Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,龛影岚蝶霸别朔我
+Dialogue: 0,0:01:25.22,0:01:27.56,Default,,0,0,0,,凄迷慨颂浪里魔堕南苦思念
 Comment: 0,0:01:27.56,0:01:33.76,Default,,0,0,0,,
