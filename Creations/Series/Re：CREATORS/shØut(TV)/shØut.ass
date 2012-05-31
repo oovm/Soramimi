@@ -12,6 +12,8 @@ Video File: shØut.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
+Active Line: 29
+Video Position: 2100
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,19 +24,18 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.96,Default,,0,0,0,,
 Dialogue: 0,0:00:05.96,0:00:08.26,Default,,0,0,0,,谭梦似空谈 为谁赎罪
 Dialogue: 0,0:00:08.26,0:00:10.58,Default,,0,0,0,,狂野论调 她本似火
-Dialogue: 0,0:00:10.84,0:00:12.86,Default,,0,0,0,,你可/米克 睡梦里 目睹那个世界
-Dialogue: 0,0:00:12.86,0:00:14.94,Default,,0,0,0,,已开始马达/?? 未来的哀辞
+Dialogue: 0,0:00:10.84,0:00:12.86,Default,,0,0,0,,你可睡梦里目睹那个世界
+Dialogue: 0,0:00:12.86,0:00:14.94,Default,,0,0,0,,已开始慢等未来的哀辞
 Dialogue: 0,0:00:14.94,0:00:17.04,Default,,0,0,0,,为谁执着 豪言尽说
-Dialogue: 0,0:00:17.04,0:00:19.58,Default,,0,0,0,,撕开的是 断念浮骸/??
+Dialogue: 0,0:00:17.04,0:00:19.58,Default,,0,0,0,,撕开的是断念浮骸
 Dialogue: 0,0:00:19.58,0:00:22.00,Default,,0,0,0,,以此祸临 哪看到 哀悲心
-Dialogue: 0,0:00:22.00,0:00:24.04,Default,,0,0,0,,此所谓 浪狂蝶? 四散而逃
+Dialogue: 0,0:00:22.00,0:00:24.04,Default,,0,0,0,,此所谓 狂浪蝶 四散而逃
 Dialogue: 0,0:00:24.04,0:00:26.10,Default,,0,0,0,,断猎魔 弑魅道
 Dialogue: 0,0:00:26.10,0:00:28.60,Default,,0,0,0,,暗笑命格负傲
 Dialogue: 0,0:00:28.90,0:00:30.88,Default,,0,0,0,,何人为她等候
 Dialogue: 0,0:00:30.88,0:00:33.24,Default,,0,0,0,,这面容 记得吗?
-Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,一转身飞扬的时光 大梦逝如流水/都抹杀 爱你
-Dialogue: 0,0:00:37.62,0:00:42.94,Default,,0,0,0,,夙狂蝶怒 空茫难夺/枯败末途
-Dialogue: 0,0:00:42.94,0:00:46.08,Default,,0,0,0,,是她的心魔
+Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,一转身飞扬的时光 大梦逝 爱汝
+Dialogue: 0,0:00:37.62,0:00:46.08,Default,,0,0,0,,夙狂蝶怒 苦海难夺 是她的心魔
 Dialogue: 0,0:00:46.70,0:00:50.36,Default,,0,0,0,,夜! 割撕裂悲劫火
 Dialogue: 0,0:00:50.36,0:00:52.96,Default,,0,0,0,,尸海随潮涌
 Dialogue: 0,0:00:52.96,0:00:55.82,Default,,0,0,0,,宁死不愿 臣服威严之下
@@ -47,6 +48,6 @@ Dialogue: 0,0:01:09.66,0:01:13.90,Default,,0,0,0,,风在怒吼 笑透哀声
 Dialogue: 0,0:01:14.22,0:01:16.44,Default,,0,0,0,,不惧路途 任!我!狂!
 Dialogue: 0,0:01:16.44,0:01:18.68,Default,,0,0,0,,写改轮回 涛!声!荡!
 Dialogue: 0,0:01:18.68,0:01:22.98,Default,,0,0,0,,军姬怒号 血的颜色
-Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,???一场宿醉/谭梦似空谈，微笑舍别
+Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,谭梦似空谈 微笑舍别
 Dialogue: 0,0:01:25.22,0:01:27.56,Default,,0,0,0,,刻意忘记那份伤痛
 Comment: 0,0:01:27.56,0:01:33.76,Default,,0,0,0,,
