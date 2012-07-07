@@ -11,6 +11,9 @@ Video File: GravityWall.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
+Scroll Position: 12
+Active Line: 22
+Video Position: 2036
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,26 +21,26 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:11.28,Default,,0,0,0,,
-Dialogue: 0,0:00:09.72,0:00:14.32,Default,,0,0,0,,
-Dialogue: 0,0:00:13.86,0:00:18.24,Default,,0,0,0,,
-Dialogue: 0,0:00:18.06,0:00:22.32,Default,,0,0,0,,
-Dialogue: 0,0:00:22.32,0:00:27.06,Default,,0,0,0,,
-Dialogue: 0,0:00:26.50,0:00:33.42,Default,,0,0,0,,
-Dialogue: 0,0:00:33.42,0:00:35.60,Default,,0,0,0,,
-Dialogue: 0,0:00:35.60,0:00:37.60,Default,,0,0,0,,
-Dialogue: 0,0:00:37.60,0:00:41.74,Default,,0,0,0,,
-Dialogue: 0,0:00:41.74,0:00:43.84,Default,,0,0,0,,
-Dialogue: 0,0:00:43.84,0:00:46.10,Default,,0,0,0,,
-Dialogue: 0,0:00:46.10,0:00:50.20,Default,,0,0,0,,
-Dialogue: 0,0:00:50.20,0:00:53.56,Default,,0,0,0,,
-Dialogue: 0,0:00:53.56,0:00:58.38,Default,,0,0,0,,
-Dialogue: 0,0:00:57.66,0:01:01.72,Default,,0,0,0,,
-Dialogue: 0,0:01:01.72,0:01:07.28,Default,,0,0,0,,
-Dialogue: 0,0:01:07.28,0:01:09.20,Default,,0,0,0,,
-Dialogue: 0,0:01:09.20,0:01:12.34,Default,,0,0,0,,
-Dialogue: 0,0:01:11.96,0:01:14.70,Default,,0,0,0,,
-Dialogue: 0,0:01:14.04,0:01:17.40,Default,,0,0,0,,
-Dialogue: 0,0:01:17.40,0:01:20.48,Default,,0,0,0,,
-Dialogue: 0,0:01:20.08,0:01:24.88,Default,,0,0,0,,
-Dialogue: 0,0:01:24.88,0:01:33.76,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:09.72,Default,,0,0,0,,
+Dialogue: 0,0:00:09.72,0:00:13.86,Default,,0,0,0,,你知道那些漫中人们生活的状态吗
+Dialogue: 0,0:00:13.86,0:00:18.06,Default,,0,0,0,,二辞源世界的人物的命运由我们来支配他们
+Dialogue: 0,0:00:18.06,0:00:22.32,Default,,0,0,0,,不经意的一些改动和那设定
+Dialogue: 0,0:00:22.32,0:00:26.50,Default,,0,0,0,,那些曼畫与小説中的人 命途变换
+Dialogue: 0,0:00:26.50,0:00:33.42,Default,,0,0,0,,creator们构建出人物
+Dialogue: 0,0:00:33.42,0:00:35.60,Default,,0,0,0,,我在心里想象结构
+Dialogue: 0,0:00:35.60,0:00:37.60,Default,,0,0,0,,我將会創造岀妳
+Dialogue: 0,0:00:37.60,0:00:41.74,Default,,0,0,0,,期待動慢中的你能来到现代
+Dialogue: 0,0:00:41.74,0:00:43.84,Default,,0,0,0,,我在心裡想象结构
+Dialogue: 0,0:00:43.84,0:00:46.10,Default,,0,0,0,,我將会創造岀妳
+Dialogue: 0,0:00:46.10,0:00:50.20,Default,,0,0,0,,他们能力和那设定我能改变
+Dialogue: 0,0:00:50.20,0:00:53.56,Default,,0,0,0,,每部动画的人物
+Dialogue: 0,0:00:53.56,0:00:57.66,Default,,0,0,0,,他們都由creators創！造！生！命！
+Dialogue: 0,0:00:57.66,0:01:01.72,Default,,0,0,0,,如果他们冲破網络和屛幕
+Dialogue: 0,0:01:01.72,0:01:07.28,Default,,0,0,0,,那些书中的人设 他们的感情会如何
+Comment: 0,0:01:07.28,0:01:09.20,Default,,0,0,0,,
+Dialogue: 0,0:01:09.20,0:01:11.96,Default,,0,0,0,,不同次元的人
+Dialogue: 0,0:01:11.96,0:01:14.04,Default,,0,0,0,,想法都不同
+Dialogue: 0,0:01:14.04,0:01:17.40,Default,,0,0,0,,该如何让他们适应这
+Dialogue: 0,0:01:17.40,0:01:20.08,Default,,0,0,0,,不同理想的人
+Dialogue: 0,0:01:20.08,0:01:24.88,Default,,0,0,0,,在故事中勇敢前往
+Comment: 0,0:01:24.88,0:01:33.76,Default,,0,0,0,,不放弃
