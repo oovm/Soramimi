@@ -6,43 +6,42 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: shØut.mp4
 Video File: shØut.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 3
-Video Position: 260
+Video Zoom Percent: 0.375000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.96,Default,,0,0,0,,
-Dialogue: 0,0:00:05.96,0:00:08.26,Default,,0,0,0,,
-Dialogue: 0,0:00:08.26,0:00:10.58,Default,,0,0,0,,
-Dialogue: 0,0:00:10.84,0:00:13.06,Default,,0,0,0,,
-Dialogue: 0,0:00:12.86,0:00:15.08,Default,,0,0,0,,
-Dialogue: 0,0:00:15.08,0:00:19.78,Default,,0,0,0,,
-Dialogue: 0,0:00:19.58,0:00:24.04,Default,,0,0,0,,
-Dialogue: 0,0:00:24.04,0:00:28.60,Default,,0,0,0,,
-Dialogue: 0,0:00:28.90,0:00:33.24,Default,,0,0,0,,
-Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,
-Dialogue: 0,0:00:37.62,0:00:46.08,Default,,0,0,0,,
-Dialogue: 0,0:00:46.70,0:00:50.36,Default,,0,0,0,,
-Dialogue: 0,0:00:50.36,0:00:52.96,Default,,0,0,0,,
-Dialogue: 0,0:00:52.96,0:00:55.82,Default,,0,0,0,,
-Dialogue: 0,0:00:55.82,0:00:59.48,Default,,0,0,0,,
-Dialogue: 0,0:00:59.48,0:01:02.06,Default,,0,0,0,,
-Dialogue: 0,0:01:02.06,0:01:04.90,Default,,0,0,0,,
-Dialogue: 0,0:01:04.90,0:01:07.42,Default,,0,0,0,,
-Dialogue: 0,0:01:07.42,0:01:09.66,Default,,0,0,0,,
-Dialogue: 0,0:01:09.66,0:01:13.90,Default,,0,0,0,,
-Dialogue: 0,0:01:14.22,0:01:16.52,Default,,0,0,0,,
-Dialogue: 0,0:01:16.44,0:01:19.02,Default,,0,0,0,,
-Dialogue: 0,0:01:18.68,0:01:22.98,Default,,0,0,0,,
-Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,
-Dialogue: 0,0:01:25.22,0:01:27.56,Default,,0,0,0,,
+Dialogue: 0,0:00:05.96,0:00:08.26,Default,,0,0,0,,他们想跳出微型世界
+Dialogue: 0,0:00:08.26,0:00:10.58,Default,,0,0,0,,逃离那些漫版书画
+Dialogue: 0,0:00:10.84,0:00:12.86,Default,,0,0,0,,每个神都有梦中那个世界
+Dialogue: 0,0:00:12.86,0:00:15.08,Default,,0,0,0,,你的纸上当年那个影子/??
+Dialogue: 0,0:00:15.08,0:00:19.58,Default,,0,0,0,,危险的军装 骇人的军装 她的军装与笑容/??
+Dialogue: 0,0:00:19.58,0:00:24.04,Default,,0,0,0,,二次元人物创造REC/?? 这设定她能够侵入人界/???
+Dialogue: 0,0:00:24.04,0:00:28.60,Default,,0,0,0,,降临那 神之地 二次元的风暴
+Dialogue: 0,0:00:28.90,0:00:33.24,Default,,0,0,0,,黑夜我到达这 这面容 记得吗
+Dialogue: 0,0:00:33.50,0:00:37.62,Default,,0,0,0,,你的身影和歌声 多么深入人心
+Dialogue: 0,0:00:37.62,0:00:46.08,Default,,0,0,0,,她的路 孤单难走 是她的使命
+Dialogue: 0,0:00:46.70,0:00:50.36,Default,,0,0,0,,愿 这世界败给我
+Dialogue: 0,0:00:50.36,0:00:52.96,Default,,0,0,0,,嘶嚎的神夜
+Dialogue: 0,0:00:52.96,0:00:55.82,Default,,0,0,0,,异次元人物浮于这天上
+Dialogue: 0,0:00:55.82,0:00:59.48,Default,,0,0,0,,余 可是刹那的灵魂
+Dialogue: 0,0:00:59.48,0:01:02.06,Default,,0,0,0,,谁敢阻止余
+Dialogue: 0,0:01:02.06,0:01:04.90,Default,,0,0,0,,用这森罗万物万象
+Dialogue: 0,0:01:05.16,0:01:07.42,Default,,0,0,0,,军姬的刀 围！绕！她！
+Dialogue: 0,0:01:07.42,0:01:09.66,Default,,0,0,0,,下个乐章 弹！奏！它！
+Dialogue: 0,0:01:09.66,0:01:13.90,Default,,0,0,0,,这是她的招 森罗万象/?????????????
+Dialogue: 0,0:01:14.22,0:01:16.44,Default,,0,0,0,,不同动漫 人！物！到！
+Dialogue: 0,0:01:16.44,0:01:18.68,Default,,0,0,0,,谁能料到 她!最!强！
+Dialogue: 0,0:01:18.68,0:01:22.98,Default,,0,0,0,,这是日本的新番故事/?????????????
+Dialogue: 0,0:01:22.98,0:01:25.22,Default,,0,0,0,,他们想跳出微型世界
+Dialogue: 0,0:01:25.22,0:01:27.56,Default,,0,0,0,,逃离那些漫版书画
 Comment: 0,0:01:27.56,0:01:33.76,Default,,0,0,0,,
