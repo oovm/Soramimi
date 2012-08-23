@@ -1,1 +1,0 @@
-原作 https://www.nicovideo.jp/watch/sm23155327
