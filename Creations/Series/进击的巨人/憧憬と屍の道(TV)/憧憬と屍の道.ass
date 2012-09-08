@@ -11,6 +11,7 @@ Video File: 憧憬と屍の道.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
+Scroll Position: 21
 Active Line: 30
 Video Position: 2002
 
@@ -20,34 +21,34 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.10,Default,,0,0,0,,
-Dialogue: 0,0:00:01.10,0:00:03.88,Default,,0,0,0,,
-Dialogue: 0,0:00:03.72,0:00:06.32,Default,,0,0,0,,
-Dialogue: 0,0:00:06.32,0:00:09.20,Default,,0,0,0,,
-Dialogue: 0,0:00:09.02,0:00:11.86,Default,,0,0,0,,
-Dialogue: 0,0:00:11.74,0:00:14.66,Default,,0,0,0,,
-Dialogue: 0,0:00:14.40,0:00:17.02,Default,,0,0,0,,
-Dialogue: 0,0:00:17.02,0:00:20.84,Default,,0,0,0,,
-Dialogue: 0,0:00:20.84,0:00:24.52,Default,,0,0,0,,
-Dialogue: 0,0:00:24.52,0:00:25.48,Default,,0,0,0,,
-Dialogue: 0,0:00:25.26,0:00:27.98,Default,,0,0,0,,
-Dialogue: 0,0:00:27.80,0:00:30.92,Default,,0,0,0,,
-Dialogue: 0,0:00:30.92,0:00:32.30,Default,,0,0,0,,
-Dialogue: 0,0:00:32.30,0:00:33.72,Default,,0,0,0,,
-Dialogue: 0,0:00:33.72,0:00:37.76,Default,,0,0,0,,
-Dialogue: 0,0:00:37.42,0:00:40.22,Default,,0,0,0,,
-Dialogue: 0,0:00:40.22,0:00:42.94,Default,,0,0,0,,
-Dialogue: 0,0:00:42.94,0:00:45.52,Default,,0,0,0,,
-Dialogue: 0,0:00:45.52,0:00:48.02,Default,,0,0,0,,
-Dialogue: 0,0:00:48.02,0:00:51.12,Default,,0,0,0,,
-Dialogue: 0,0:00:50.96,0:00:53.64,Default,,0,0,0,,
-Dialogue: 0,0:00:53.64,0:00:56.56,Default,,0,0,0,,
-Dialogue: 0,0:00:56.34,0:00:59.58,Default,,0,0,0,,
-Dialogue: 0,0:00:59.04,0:01:01.82,Default,,0,0,0,,
-Dialogue: 0,0:01:01.82,0:01:04.46,Default,,0,0,0,,
-Dialogue: 0,0:01:04.46,0:01:07.20,Default,,0,0,0,,
-Dialogue: 0,0:01:06.98,0:01:09.90,Default,,0,0,0,,
-Dialogue: 0,0:01:09.90,0:01:15.12,Default,,0,0,0,,
-Dialogue: 0,0:01:15.12,0:01:19.90,Default,,0,0,0,,
-Dialogue: 0,0:01:19.36,0:01:23.50,Default,,0,0,0,,
-Dialogue: 0,0:01:23.50,0:01:32.90,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:01.10,Default,,0,0,0,,
+Dialogue: 0,0:00:01.10,0:00:03.72,Default,,0,0,0,,看那些巨人 让门内爆闪
+Dialogue: 0,0:00:03.72,0:00:06.32,Default,,0,0,0,,类似姚明的叔叔看着我
+Dialogue: 0,0:00:06.32,0:00:09.02,Default,,0,0,0,,他们一个个的冒头围攻
+Dialogue: 0,0:00:09.02,0:00:11.74,Default,,0,0,0,,没本事 干嘛你们鱼贯跃出 被安排
+Dialogue: 0,0:00:11.74,0:00:14.40,Default,,0,0,0,,看利维帅哭
+Dialogue: 0,0:00:14.40,0:00:17.02,Default,,0,0,0,,你们浪费资源 咖啡杯被踢倒了
+Dialogue: 0,0:00:17.02,0:00:20.64,Default,,0,0,0,,这楼顶一堆人来望着 气恼这不是酒
+Dialogue: 0,0:00:20.64,0:00:24.04,Default,,0,0,0,,要小心这那么高
+Comment: 0,0:00:24.04,0:00:25.40,Default,,0,0,0,,
+Dialogue: 0,0:00:25.40,0:00:27.80,Default,,0,0,0,,房子倒了让我们滚开
+Dialogue: 0,0:00:27.80,0:00:30.84,Default,,0,0,0,,妈的去爆闪收掉你
+Dialogue: 0,0:00:30.84,0:00:32.30,Default,,0,0,0,,艾伦你快开大
+Dialogue: 0,0:00:32.30,0:00:33.72,Default,,0,0,0,,巨人特别多
+Dialogue: 0,0:00:33.72,0:00:37.42,Default,,0,0,0,,我靠还敢用这石头秒我
+Dialogue: 0,0:00:37.42,0:00:40.22,Default,,0,0,0,,明明弄出一块却变成一篮篮
+Dialogue: 0,0:00:40.22,0:00:42.94,Default,,0,0,0,,我们遇到那里变成稀烂碎片
+Dialogue: 0,0:00:42.94,0:00:45.52,Default,,0,0,0,,安抚马儿拿那把枪射烟雾弹
+Dialogue: 0,0:00:45.52,0:00:48.02,Default,,0,0,0,,四方八面人类全都冲出来
+Dialogue: 0,0:00:48.02,0:00:50.96,Default,,0,0,0,,转头看见我们狗日莱纳对艾伦
+Dialogue: 0,0:00:50.96,0:00:53.64,Default,,0,0,0,,让咱拿出废比拳啊攻略了他
+Dialogue: 0,0:00:53.64,0:00:56.34,Default,,0,0,0,,新制针用绳子射他鸟屋
+Dialogue: 0,0:00:56.34,0:00:59.04,Default,,0,0,0,,性感不变永远只有帅哥笠
+Dialogue: 0,0:00:59.04,0:01:01.82,Default,,0,0,0,,勇敢战士们凝结的调查团
+Dialogue: 0,0:01:01.82,0:01:04.46,Default,,0,0,0,,翅膀守护着那信念
+Dialogue: 0,0:01:04.46,0:01:06.88,Default,,0,0,0,,心中永不断裂梦
+Dialogue: 0,0:01:06.88,0:01:09.90,Default,,0,0,0,,这信仰依然捍卫这条路
+Dialogue: 0,0:01:09.90,0:01:15.12,Default,,0,0,0,,太阳光芒 显出人的愿望犹如这光亮
+Dialogue: 0,0:01:15.12,0:01:19.36,Default,,0,0,0,,逝生命 铸筑的路
+Dialogue: 0,0:01:19.36,0:01:23.50,Default,,0,0,0,,让明眸 照亮这夜
+Comment: 0,0:01:23.50,0:01:32.90,Default,,0,0,0,,
