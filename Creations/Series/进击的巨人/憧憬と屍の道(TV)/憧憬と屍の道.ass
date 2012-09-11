@@ -6,49 +6,49 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: 憧憬と屍の道.mp4
 Video File: 憧憬と屍の道.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 21
-Active Line: 30
-Video Position: 2002
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:01.10,Default,,0,0,0,,
-Dialogue: 0,0:00:01.10,0:00:03.72,Default,,0,0,0,,看那些巨人 让门内爆闪
-Dialogue: 0,0:00:03.72,0:00:06.32,Default,,0,0,0,,类似姚明的叔叔看着我
-Dialogue: 0,0:00:06.32,0:00:09.02,Default,,0,0,0,,他们一个个的冒头围攻
-Dialogue: 0,0:00:09.02,0:00:11.74,Default,,0,0,0,,没本事 干嘛你们鱼贯跃出 被安排
-Dialogue: 0,0:00:11.74,0:00:14.40,Default,,0,0,0,,看利维帅哭
-Dialogue: 0,0:00:14.40,0:00:17.02,Default,,0,0,0,,你们浪费资源 咖啡杯被踢倒了
-Dialogue: 0,0:00:17.02,0:00:20.64,Default,,0,0,0,,这楼顶一堆人来望着 气恼这不是酒
-Dialogue: 0,0:00:20.64,0:00:24.04,Default,,0,0,0,,要小心这那么高
+Dialogue: 0,0:00:01.10,0:00:03.72,Default,,0,0,0,,看那些巨人 让门内爆闪/泯灭的那时代
+Dialogue: 0,0:00:03.72,0:00:06.32,Default,,0,0,0,,武装于那逆境里的 是使命和渴望
+Dialogue: 0,0:00:06.32,0:00:09.02,Default,,0,0,0,,当人们个个都磨刀而出
+Dialogue: 0,0:00:09.02,0:00:10.54,Default,,0,0,0,,铁血之愿 猛然仰望
+Dialogue: 0,0:00:10.54,0:00:11.74,Default,,0,0,0,,未知的浩劫
+Dialogue: 0,0:00:11.74,0:00:14.40,Default,,0,0,0,,剑芒为杀戮
+Dialogue: 0,0:00:14.40,0:00:17.02,Default,,0,0,0,,犹如噩梦中的战斗里 绝望的泯灭想逃
+Dialogue: 0,0:00:17.02,0:00:20.64,Default,,0,0,0,,将面对那沿途的魍魉和劫难 被烧尽
+Dialogue: 0,0:00:20.64,0:00:24.04,Default,,0,0,0,,一生献给了伟大/也像星空般伟大
 Comment: 0,0:00:24.04,0:00:25.40,Default,,0,0,0,,
-Dialogue: 0,0:00:25.40,0:00:27.80,Default,,0,0,0,,房子倒了让我们滚开
-Dialogue: 0,0:00:27.80,0:00:30.84,Default,,0,0,0,,妈的去爆闪收掉你
-Dialogue: 0,0:00:30.84,0:00:32.30,Default,,0,0,0,,艾伦你快开大
-Dialogue: 0,0:00:32.30,0:00:33.72,Default,,0,0,0,,巨人特别多
-Dialogue: 0,0:00:33.72,0:00:37.42,Default,,0,0,0,,我靠还敢用这石头秒我
-Dialogue: 0,0:00:37.42,0:00:40.22,Default,,0,0,0,,明明弄出一块却变成一篮篮
-Dialogue: 0,0:00:40.22,0:00:42.94,Default,,0,0,0,,我们遇到那里变成稀烂碎片
-Dialogue: 0,0:00:42.94,0:00:45.52,Default,,0,0,0,,安抚马儿拿那把枪射烟雾弹
-Dialogue: 0,0:00:45.52,0:00:48.02,Default,,0,0,0,,四方八面人类全都冲出来
-Dialogue: 0,0:00:48.02,0:00:50.96,Default,,0,0,0,,转头看见我们狗日莱纳对艾伦
-Dialogue: 0,0:00:50.96,0:00:53.64,Default,,0,0,0,,让咱拿出废比拳啊攻略了他
-Dialogue: 0,0:00:53.64,0:00:56.34,Default,,0,0,0,,新制针用绳子射他鸟屋
-Dialogue: 0,0:00:56.34,0:00:59.04,Default,,0,0,0,,性感不变永远只有帅哥笠
-Dialogue: 0,0:00:59.04,0:01:01.82,Default,,0,0,0,,勇敢战士们凝结的调查团
+Dialogue: 0,0:00:25.40,0:00:27.80,Default,,0,0,0,,斗争之路 我将铭记在心间
+Dialogue: 0,0:00:27.80,0:00:30.84,Default,,0,0,0,,末路即便???战死沙地
+Dialogue: 0,0:00:30.84,0:00:32.30,Default,,0,0,0,,艾伦你快开大/无垠的轨道
+Dialogue: 0,0:00:32.30,0:00:33.72,Default,,0,0,0,,巨人特别多/记忆中的痛
+Dialogue: 0,0:00:33.72,0:00:37.42,Default,,0,0,0,,我靠还敢用这石头秒我/无法回头将身予凋亡/无边暗黑里心要
+Dialogue: 0,0:00:37.42,0:00:40.22,Default,,0,0,0,,碎裂的这石块将要袭来了 明明弄出一块却变成一篮篮/愚昧????
+Dialogue: 0,0:00:40.22,0:00:42.94,Default,,0,0,0,,我们遇到那里变成稀烂碎片/不畏牺牲我们用血肉筑路
+Dialogue: 0,0:00:42.94,0:00:45.52,Default,,0,0,0,,安抚马儿拿那把枪射烟雾弹/跨过磨难战与沙场死也荣耀
+Dialogue: 0,0:00:45.52,0:00:48.02,Default,,0,0,0,,四方八面人类全都冲出来/指引我
+Dialogue: 0,0:00:48.02,0:00:50.96,Default,,0,0,0,,通往古壁的门后 哪里有安乐/莱纳对艾伦
+Dialogue: 0,0:00:50.96,0:00:53.64,Default,,0,0,0,,让咱拿出废比拳啊攻略了他/无数人的牺牲里我到了家
+Dialogue: 0,0:00:53.64,0:00:56.34,Default,,0,0,0,,心中之重 勇士将杀过未来/曙光耀目/世界的真相将我颠覆
+Dialogue: 0,0:00:56.34,0:00:59.04,Default,,0,0,0,,血的波浪用命去勇杀巨人/死去战友的遗愿要杀巨人
+Dialogue: 0,0:00:59.04,0:01:01.82,Default,,0,0,0,,勇敢战士们凝结的调查团/羽翼被折断了亦要前行的调查团
 Dialogue: 0,0:01:01.82,0:01:04.46,Default,,0,0,0,,翅膀守护着那信念
-Dialogue: 0,0:01:04.46,0:01:06.88,Default,,0,0,0,,心中永不断裂梦
+Dialogue: 0,0:01:04.46,0:01:06.88,Default,,0,0,0,,心中永不断裂的梦
 Dialogue: 0,0:01:06.88,0:01:09.90,Default,,0,0,0,,这信仰依然捍卫这条路
-Dialogue: 0,0:01:09.90,0:01:15.12,Default,,0,0,0,,太阳光芒 显出人的愿望犹如这光亮
+Dialogue: 0,0:01:09.90,0:01:11.14,Default,,0,0,0,,太阳光芒面对/太阳没到
+Dialogue: 0,0:01:11.14,0:01:15.12,Default,,0,0,0,,显出人的愿望犹如这光亮
 Dialogue: 0,0:01:15.12,0:01:19.36,Default,,0,0,0,,逝生命 铸筑的路
 Dialogue: 0,0:01:19.36,0:01:23.50,Default,,0,0,0,,让明眸 照亮这夜
 Comment: 0,0:01:23.50,0:01:32.90,Default,,0,0,0,,
